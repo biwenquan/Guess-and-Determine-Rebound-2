@@ -42,3 +42,5 @@ These are multi-part split RAR compression volumes of the complete package aes-c
 3.Use compression software (WinRAR, 7-Zip, Bandizip) to extract;
 
 4.The program will automatically combine all split parts and restore the complete file/folder named aes-cryptanalysis-cp-xor.
+
+cp-differential-cryptanalysis-AfricaCrypt22: The code to search RKDCs for key collision attacks on Rijndael. The RKDCs used in the article is listed in the folder of article_trails.
