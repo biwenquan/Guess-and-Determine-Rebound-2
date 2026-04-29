@@ -11,4 +11,4 @@ We also provide code without the solver included, with some additional modificat
 
 cp-differential-cryptanalysis-AfricaCrypt22: The code to search RKDCs for key collision attacks on Rijndael.  We modify the files sat/Rijndael.mzn and src/main/kotlin/fr/limos/decrypt/apps/rijndael/step2/sat/OptimizeForSatKt.kt to search related-key differentials for key collision attacks.
 
-aes-cryptanalysis-cp-xor-keycollision.zip：The code to search RKDCs for key collision attacks on AES, code only without solvers. We modify the files S1Basic.mzn, S1Diff.mzn, S1XOR.mzn and Step2Normal.java to search related-key differentials for key collision attacks.
+aes-cryptanalysis-cp-xor-keycollision.zip：The code to search RKDCs for key collision attacks on AES. We modify the files S1Basic.mzn, S1Diff.mzn, S1XOR.mzn and Step2Normal.java to search related-key differentials for key collision attacks.
