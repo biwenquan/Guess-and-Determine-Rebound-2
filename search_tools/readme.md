@@ -1,7 +1,7 @@
 
-Search codes:
+The RKDCs search tools are provided here. They can be used to search RKDC directly.
 
-aes-cryptanalysis-cp-xor: The code to search RKDCs for key collision attacks on AES. Run ./test.sh to test the RKDC for 3-round AES-128 in the article.
+aes-cryptanalysis-cp-xor: The code to search RKDCs for key collision attacks on AES and Rijndael. Run ./test.sh to test the RKDC for 3-round AES-128 in the article.
 These are multi-part split RAR compression volumes of the complete package aes-cryptanalysis-cp-xor:
 
 1.Download all 7 split part files and place them in the same folder;
@@ -11,3 +11,5 @@ These are multi-part split RAR compression volumes of the complete package aes-c
 3.Use compression software (WinRAR, 7-Zip, Bandizip) to extract;
 
 4.The program will automatically combine all split parts and restore the complete file/folder named aes-cryptanalysis-cp-xor.
+
+aes-cryptanalysis-cp-xor-keycollision.zip：The tools to search RKDCs for key collision attacks on AES.
