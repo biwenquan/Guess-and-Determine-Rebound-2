@@ -44,3 +44,5 @@ These are multi-part split RAR compression volumes of the complete package aes-c
 4.The program will automatically combine all split parts and restore the complete file/folder named aes-cryptanalysis-cp-xor.
 
 cp-differential-cryptanalysis-AfricaCrypt22: The code to search RKDCs for key collision attacks on Rijndael. The RKDCs used in the article is listed in the folder of article_trails.
+
+aes-cryptanalysis-cp-xor-keycollision.zip：The code to search RKDCs for key collision attacks on AES, code only without solvers. We modify the files S1Basic.mzn, S1Diff.mzn, S1XOR.mzn and Step2Normal.java to search related-key differentials for key collision attacks.
