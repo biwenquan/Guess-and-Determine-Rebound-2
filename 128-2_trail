@@ -1,0 +1,2033 @@
+Proba :2^-95
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 83  0        0  0 83  0        0  0 52  0        0  0 52  0        0  0 f6 83       
+2a 2a  0  0       2a 2a  0  0       83  e  0  0        e  0  0 83       2a  0  0  0       
+ 0  0 a4  0        0  0 a4  0        0  0 12  0       12  0  0  0       2a  0 a4 a4       
+ 0 8a 8a  0        0 8a 8a  0        0 52 1d  0        0  0 52 1d       1c  0 52 b9       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 83 83        0  0 75  0        0  0 83  0        0  0 83  0       
+2a  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+ 0  0 a4 a4       2a  0  0  0       a4  0  0  0        0  0 a4  0       
+ 0 8a  0  0       1c 8a 52 b9        5  5  5 8f       8f  5  5  5       
+deltaK[2]     deltaX[2] 
+ 0  0 83  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 a4  0        0  0  0  0      
+8f  5  5  5        0  0  0  0      
+Proba :2^-97
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+99 99  0  0       99 99  0  0        7 8d  0  0        7 8d  0  0       99  0  0  0       
+ 0 8c  0  0        0 8c  0  0        0  8  0  0        8  0  0  0       9d 8c  0 8c       
+ 0 5b 5b  0        0 5b 5b  0        0 46 8f  0       8f  0  0 46        a 8e  0 46       
+8e  0 8e  0       8e  0 8e  0        1  0 46  0        0  1  0 46       8e 8e  0 ca       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+99  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+ 0 8c 8c 8c       9d  0 8c  0       8c  0 8c  0        0 8c  0 8c       
+ 0 5b  0  0        a d5  0 46       5b 5b  0 5b        0 5b 5b 5b       
+8e 8e  0  0        0  0  0 ca        0  0  0 8e       8e  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  0  0  0        0  0  0  0      
+ 0 8c  0 8c        0  0  0  0      
+ 0 5b 5b 5b        0  0  0  0      
+8e  0  0  0        0  0  0  0      
+Proba :2^-102
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 d9  0        0  0 d9  0        0  0 1e  0        0  0 1e  0        0  0 36 d9       
+d3 d3  0  0       d3 d3  0  0        5 92  0  0       92  0  0  5       d3  0  0  0       
+f3 f3  a  0       f3 f3  a  0        a 6e ad  0       ad  0  a 6e       d3  0  a  a       
+ 0  0 16  0        0  0 16  0        0  0 b8  0        0  0  0 b8       3f  0 28  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 d9 d9        0  0 ef  0        0  0 d9  0        0  0 d9  0       
+d3  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+f3  0  a  a       20  0  0  0        a  0  0  0        0  0  a  0       
+ 0  0 16 16       3f  0 3e 16       16  0 16 16       16 16  0 16       
+deltaK[2]     deltaX[2] 
+ 0  0 d9  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0  a  0        0  0  0  0      
+16 16  0 16        0  0  0  0      
+Proba :2^-102
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 f3  0        0  0 f3  0        0  0 e8  0        0  0 e8  0        0  0 93 f3       
+ 9  9  0  0        9  9  0  0       62  3  0  0        3  0  0 62        9  0  0  0       
+c5 c5 58  0       c5 c5 58  0       58 c5  5  0        5  0 58 c5        9  0 58 58       
+ 0  0 56  0        0  0 56  0        0  0 90  0        0  0  0 90        6  0 7b 9c       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 f3 f3        0  0 60  0        0  0 f3  0        0  0 f3  0       
+ 9  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+c5  0 58 58       cc  0  0  0       58  0  0  0        0  0 58  0       
+ 0  0 56 56        6  0 2d ca       56  0 56 56       56 56  0 56       
+deltaK[2]     deltaX[2] 
+ 0  0 f3  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 58  0        0  0  0  0      
+56 56  0 56        0  0  0  0      
+Proba :2^-103
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+2d 9c c0  0       2d 9c c0  0       11 95 d9  0       11 95 d9  0       2d 7c  0  0       
+ 0  0 5e  0        0  0 5e  0        0  0 d8  0        0 d8  0  0        0  0 5e  0       
+ f  0  f  0        f  0  f  0       17  0  f  0        f  0 17  0        f  f 2e  0       
+3c 3c  0  0       3c 3c  0  0       3e be  0  0        0 3e be  0       3c  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+2d b1 71 71        0 cd 71 71        0 b1 c0 b1        0 b1 c0 b1       
+ 0  0 5e 5e        0  0  0 5e        0  0  0 5e        0  0 5e  0       
+ f  f  0  0        0  0 2e  0        0  0  f  0        f  0  0  0       
+3c  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 b1 c0 b1        0  0  0  0      
+ 0  0 5e  0        0  0  0  0      
+ f  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-103
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+2d 80 2f  0       2d 80 2f  0       11 95 ab  0       11 95 ab  0       2d 7c df  0       
+ 0  0 5e  0        0  0 5e  0        0  0 d8  0        0 d8  0  0        0  0 5e  0       
+ f  0  f  0        f  0  f  0       be  0  f  0        f  0 be  0        f  f b8  0       
+3c 3c  0  0       3c 3c  0  0       3e 2c  0  0        0 3e 2c  0       3c  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+2d ad 82 82        0 d1 5d 82        0 ad 2f ad        0 ad 2f ad       
+ 0  0 5e 5e        0  0  0 5e        0  0  0 5e        0  0 5e  0       
+ f  f  0  0        0  0 b8  0        0  0  f  0        f  0  0  0       
+3c  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 ad 2f ad        0  0  0  0      
+ 0  0 5e  0        0  0  0  0      
+ f  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-104
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+53  0  0  0       53  0  0  0       8e  0  0  0       8e  0  0  0       53 b0 53  0       
+ 0 1a 13  0        0 1a 13  0        0 78 aa  0       78 aa  0  0        1 1a 97  0       
+55  0 55  0       55  0 55  0       62  0 dc  0       dc  0 62  0       55 55 97  0       
+2d 2d  0  0       2d 2d  0  0       55 31  0  0        0 55 31  0       2d  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+53 53 53 53        0 e3  0 53        0 53  0 53        0 53  0 53       
+ 0 1a  9  9        1  0 9e  9       1a  0 1a 13        0 1a 13 1a       
+55 55  0  0        0  0 97  0        0  0 55  0       55  0  0  0       
+2d  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 53  0 53        0  0  0  0      
+ 0 1a 13 1a        0  0  0  0      
+55  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-104
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+6b 6b 1e  0       6b 6b 1e  0       1c 96  5  0       1c 96  5  0       c5 8f 1e  0       
+ 0  0 2b  0        0  0 2b  0        0  0 2e  0        0 2e  0  0        0  0 2b  0       
+fd  0 fd  0       fd  0 fd  0       1d  0 fd  0       fd  0 1d  0       fd fd 24  0       
+d9 d9  0  0       d9 d9  0  0       ca  9  0  0        0 ca  9  0       d9  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+6b  0 1e 1e       ae 8f  0 1e       1e 1e  0 1e       1e 1e  0 1e       
+ 0  0 2b 2b        0  0  0 2b        0  0  0 2b        0  0 2b  0       
+fd fd  0  0        0  0 24  0        0  0 fd  0       fd  0  0  0       
+d9  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+1e 1e  0 1e        0  0  0  0      
+ 0  0 2b  0        0  0  0  0      
+fd  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-102
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+4b 50 de  0       4b 50 de  0       d0 30 19  0       d0 30 19  0        2 a9 c5  0       
+ 0  0 7a  0        0  0 7a  0        0  0 f9  0        0 f9  0  0        0  0 7a  0       
+b9  0 b9  0       b9  0 b9  0       4a  0 b9  0       b9  0 4a  0       b9 b9 51  0       
+d2 d2  0  0       d2 d2  0  0       d9 bd  0  0        0 d9 bd  0       d2  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+4b 1b c5 c5       49 b2  0 c5       de c5  0 c5       de c5  0 c5       
+ 0  0 7a 7a        0  0  0 7a        0  0  0 7a        0  0 7a  0       
+b9 b9  0  0        0  0 51  0        0  0 b9  0       b9  0  0  0       
+d2  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+de c5  0 c5        0  0  0  0      
+ 0  0 7a  0        0  0  0  0      
+b9  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-102
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+d5 47  0  0       d5 47  0  0       60 c3  0  0       60 c3  0  0       e0 61 c5  0       
+ 0  0 d2  0        0  0 d2  0        0  0 3f  0        0 3f  0  0        0  0 d2  0       
+20  0 20  0       20  0 20  0       86  0 20  0       20  0 86  0       20 20 d2  0       
+80 80  0  0       80 80  0  0       bd 43  0  0        0 bd 43  0       80  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+d5 92 92 92       35 f3 57 92       be 2c be 2c       be 2c be 2c       
+ 0  0 d2 d2        0  0  0 d2        0  0  0 d2        0  0 d2  0       
+20 20  0  0        0  0 d2  0        0  0 20  0       20  0  0  0       
+80  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+be 2c be 2c        0  0  0  0      
+ 0  0 d2  0        0  0  0  0      
+20  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-105
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 c6  0  0        0 c6  0  0        0 eb  0  0        0 eb  0  0       7b c6 34 c6       
+8d  0  0  0       8d  0  0  0       df  0  0  0        0  0  0 df       8d e0 8d 19       
+f6  0 f6  0       f6  0 f6  0       d1  0 7b  0       7b  0 d1  0       f6 f6 8d  0       
+7b 4b 30  0       7b 4b 30  0        b e5 bc  0        0  b e5 bc       7b 30  0 bc       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 c6 c6 c6       7b  0 f2  0       c6  0 c6  0       c6  0 c6  0       
+8d 8d 8d 8d        0 6d  0 94        0 8d  0 8d       8d  0 8d  0       
+f6 f6  0  0        0  0 8d  0        0  0 f6  0       f6  0  0  0       
+7b 30  0  0        0  0  0 bc        0  0  0 30       30  0  0  0       
+deltaK[2]     deltaX[2] 
+c6  0 c6  0        0  0  0  0      
+8d  0 8d  0        0  0  0  0      
+f6  0  0  0        0  0  0  0      
+30  0  0  0        0  0  0  0      
+Proba :2^-104
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ad  0 46  0       ad  0 46  0       f6  0 6e  0       f6  0 6e  0       f7 ad 30 eb       
+f6  0 f6  0       f6  0 f6  0       59  0 3b  0        0 3b  0 59       f6 96  0  0       
+f6 f6  0  0       f6 f6  0  0       41 59  0  0        0  0 41 59       f6  0  0  0       
+ 1  1 b2  0        1  1 b2  0       e0 ad 59  0        0 e0 ad 59        1 e0 b2 b2       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ad ad eb eb       5a  0 db  0       ad  0 eb  0       ad  0 eb  0       
+f6 f6  0  0        0 60  0  0        0 f6  0  0       f6  0  0  0       
+f6  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+ 1  0 b2 b2        0 e0  0  0        0 b2  0  0        0  0 b2  0       
+deltaK[2]     deltaX[2] 
+ad  0 eb  0        0  0  0  0      
+f6  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 b2  0        0  0  0  0      
+Proba :2^-104
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+e8 d8 30  0       e8 d8 30  0       f8 18 2f  0       f8 18 2f  0       f8 30  0  0       
+cd  0  0  0       cd  0  0  0       5f  0  0  0        0  0  0 5f       cd 18 cd 91       
+de c6 18  0       de c6 18  0       5e 67 13  0       13  0 5e 67       de 18 93  0       
+ 0  0 2f  0        0  0 2f  0        0  0 86  0        0  0  0 86        0 28 2f 2f       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+e8 30  0  0       10  0  0  0       30  0  0  0       30  0  0  0       
+cd cd cd cd        0 d5  0 5c        0 cd  0 cd       cd  0 cd  0       
+de 18  0  0        0  0 93  0        0  0 18  0       18  0  0  0       
+ 0  0 2f 2f        0 28  0  0        0 2f  0  0        0  0 2f  0       
+deltaK[2]     deltaX[2] 
+30  0  0  0        0  0  0  0      
+cd  0 cd  0        0  0  0  0      
+18  0  0  0        0  0  0  0      
+ 0  0 2f  0        0  0  0  0  
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+d1  0 d1  0       d1  0 d1  0       d1  0 d1  0        0 d1  0 d1        0 d1 8f d1       
+69  0  0  0       69  0  0  0       ca  0  0  0        0  0 ca  0        0 69 ca 69       
+1f 17  8  0       1f 17  8  0       68 ca 68  0        0 68 ca 68        0  1 45  1       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+d1 d1  0  0       d1  0 8f d1       d1  0 d1 d1        0 d1 d1 d1       
+69 69 69 69       69  0 a3  0       69  0 69  0       69  0 69  0       
+1f  8  0  0       1f  9 45  1       17 17 17 1f       1f 17 17 17       
+deltaK[2]     deltaX[2] 
+ 0  0  0  0        0  0  0  0      
+ 0 d1 d1 d1        0  0  0  0      
+69  0 69  0        0  0  0  0      
+1f 17 17 17        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 43  0  0        0 43  0  0        0 e3  0  0        0 e3  0  0        0  0 43  0       
+75  0 75  0       75  0 75  0       2a  0 4b  0        0 4b  0 2a        0 75 4e 2a       
+a8  0  0  0       a8  0  0  0       8b  0  0  0        0  0 8b  0        0 a8 4e a8       
+ 0 75 75  0        0 75 75  0        0 c8 7e  0        0  0 c8 7e        0 75  0 d6       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 43 43 43        0 43  0 43        0 43  0 43        0 43  0 43       
+75 75  0  0       75  0 4e 2a       75  0 75 75        0 75 75 75       
+a8 a8 a8 a8       a8  0 e6  0       a8  0 a8  0       a8  0 a8  0       
+ 0 75  0  0        0  0  0 d6        0  0  0 75       75  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 43  0 43        0  0  0  0      
+ 0 75 75 75        0  0  0  0      
+a8  0 a8  0        0  0  0  0      
+75  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 50  0  0        0 50  0  0        0 38  0  0        0 38  0  0        0 ab 50  0       
+aa  0 aa  0       aa  0 aa  0       d7  0 49  0        0 49  0 d7        0 aa 90 d7       
+71  0  0  0       71  0  0  0       60  0  0  0        0  0 60  0        0 71 90 71       
+ 0  1  1  0        0  1  1  0        0 30 62  0        0  0 30 62        0  1  0 13       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 50 50 50        0 fb  0 50        0 50  0 50        0 50  0 50       
+aa aa  0  0       aa  0 90 d7       aa  0 aa aa        0 aa aa aa       
+71 71 71 71       71  0 e1  0       71  0 71  0       71  0 71  0       
+ 0  1  0  0        0  0  0 13        0  0  0  1        1  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 50  0 50        0  0  0  0      
+ 0 aa aa aa        0  0  0  0      
+71  0 71  0        0  0  0  0      
+ 1  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 69  0  0        0 69  0  0        0 bd  0  0        0 bd  0  0        0  0 69  6       
+ a  0  a  0        a  0  a  0       d3  0 d6  0        0 d6  0 d3        0  a f5 d5       
+6b  0  0  0       6b  0  0  0       4e  0  0  0        0  0 4e  0        0 6b f5 6b       
+ 0  a  a  0        0  a  a  0        0 27 68  0        0  0 27 68        0  a  0  3       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 69 69 69        0 69  0 6f        0 69  0 69        0 69  0 69       
+ a  a  0  0        a  0 f5 d5        a  0  a  a        0  a  a  a       
+6b 6b 6b 6b       6b  0 9e  0       6b  0 6b  0       6b  0 6b  0       
+ 0  a  0  0        0  0  0  3        0  0  0  a        a  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 69  0 69        0  0  0  0      
+ 0  a  a  a        0  0  0  0      
+6b  0 6b  0        0  0  0  0      
+ a  0  0  0        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 c4  0  0        0 c4  0  0        0  6  0  0        0  6  0  0        0 93 c4 83       
+ec  0 ec  0       ec  0 ec  0       f0  0 75  0        0 75  0 f0        0 ec 26 73       
+73  0  0  0       73  0  0  0       71  0  0  0        0  0 71  0        0 73 26 73       
+ 0 7f 7f  0        0 7f 7f  0        0 b5 88  0        0  0 b5 88        0 7f  0 fb       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 c4 c4 c4        0 57  0 47        0 c4  0 c4        0 c4  0 c4       
+ec ec  0  0       ec  0 26 73       ec  0 ec ec        0 ec ec ec       
+73 73 73 73       73  0 55  0       73  0 73  0       73  0 73  0       
+ 0 7f  0  0        0  0  0 fb        0  0  0 7f       7f  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 c4  0 c4        0  0  0  0      
+ 0 ec ec ec        0  0  0  0      
+73  0 73  0        0  0  0  0      
+7f  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+d1  0 d1  0       d1  0 d1  0       d1  0 d1  0       d1  0 d1  0       d1  0 d1 8f       
+69  0  0  0       69  0  0  0       ca  0  0  0        0  0  0 ca       69  0 69 ca       
+1f 77 68  0       1f 77 68  0       68 ca 68  0       68  0 68 ca        1  0  1 45       
+ 0  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+d1 d1  0  0        0 d1 d1 8f        0 d1 d1 d1        0 d1 d1 d1       
+69 69 69 69        0 69  0 a3        0 69  0 69       69  0 69  0       
+1f 68  0  0       1e 68  1 45       77 77 1f 77       1f 77 77 77       
+ 0  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 d1 d1 d1        0  0  0  0      
+69  0 69  0        0  0  0  0      
+1f 77 77 77        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-108
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 ed  0        0  0 ed  0        0  0 5b  0        0  0 5b  0        0  0 68 ed       
+b6 b6  0  0       b6 b6  0  0       de 85  0  0       85  0  0 de       b6  0  0  0       
+50 50 ed  0       50 50 ed  0       cf 94 94  0       94  0 cf 94       b6  0 ed ed       
+ 0 66  0  0        0 66  0  0        0 11  0  0        0  0 11  0       11  0  0 4a       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 ed ed        0  0 85  0        0  0 ed  0        0  0 ed  0       
+b6  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+50  0 ed ed       e6  0  0  0       ed  0  0  0        0  0 ed  0       
+ 0 66 66 66       11 66 66 2c       50 36 50 36       36 50 36 50       
+deltaK[2]     deltaX[2] 
+ 0  0 ed  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 ed  0        0  0  0  0      
+36 50 36 50        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 a5  0        0  0 a5  0        0  0  d  0        0  0  d  0        0  0  0 a5       
+e8 e8  0  0       e8 e8  0  0       f6 f2  0  0       f2  0  0 f6       e8  0  0  0       
+b0 b0 a5  0       b0 b0 a5  0       86 a4  d  0        d  0 86 a4       e8  0 a5 a5       
+ 0 a9  0  0        0 a9  0  0        0 9c  0  0        0  0 9c  0       ff  0 b2 52       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 a5 a5        0  0 a5  0        0  0 a5  0        0  0 a5  0       
+e8  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+b0  0 a5 a5       58  0  0  0       a5  0  0  0        0  0 a5  0       
+ 0 a9 a9 a9       ff a9 1b fb       cc 65 cc 65       65 cc 65 cc       
+deltaK[2]     deltaX[2] 
+ 0  0 a5  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 a5  0        0  0  0  0      
+65 cc 65 cc        0  0  0  0      
+Proba :2^-108
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 23  0        0  0 23  0        0  0 90  0        0  0 90  0        0  0 71 23       
+7c 7c  0  0       7c 7c  0  0       17 ab  0  0       ab  0  0 17       7c  0  0  0       
+c5 c5 23  0       c5 c5 23  0       6d 1a e6  0       e6  0 6d 1a       7c  0 23 23       
+ 0 c5  0  0        0 c5  0  0        0 27  0  0        0  0 27  0       4d  0 88  d       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 23 23        0  0 52  0        0  0 23  0        0  0 23  0       
+7c  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+c5  0 23 23       b9  0  0  0       23  0  0  0        0  0 23  0       
+ 0 c5 c5 c5       4d c5 4d c8       80 45 80 45       45 80 45 80       
+deltaK[2]     deltaX[2] 
+ 0  0 23  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 23  0        0  0  0  0      
+45 80 45 80        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0  d  0        0  0  d  0        0  0 b3  0        0  0 b3  0        0  0 e5  d       
+25 25  0  0       25 25  0  0        d dd  0  0       dd  0  0  d       25  0  0  0       
+ee  0 76  0       ee  0 76  0       98  0 7c  0       7c  0 98  0       25  0 98 23       
+ 0  0 b4  0        0  0 b4  0        0  0 1a  0        0  0  0 1a       a1  0 56 39       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0  d  d        0  0 e8  0        0  0  d  0        0  0  d  0       
+25  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+ee ee 98 98       cb ee  0 bb       76 ee  0 ee        0 ee 76 ee       
+ 0  0 b4 b4       a1  0 e2 8d       b4  0 b4 b4       b4 b4  0 b4       
+deltaK[2]     deltaX[2] 
+ 0  0  d  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0 ee 76 ee        0  0  0  0      
+b4 b4  0 b4        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0  1  0        0  0  1  0        0  0 2a  0        0  0 2a  0        0  0 bb  1       
+92 92  0  0       92 92  0  0        1 89  0  0       89  0  0  1       92  0  0  0       
+92  0 31  0       92  0 31  0       ef  0 80  0       80  0 ef  0       92  0 ef  7       
+ 0  0 1f  0        0  0 1f  0        0  0  2  0        0  0  0  2        9  0 91  5       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0  1  1        0  0 ba  0        0  0  1  0        0  0  1  0       
+92  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+92 92 a3 a3        0 92 4c a4        0 a3 31 a3       31 a3  0 a3       
+ 0  0 1f 1f        9  0 8e 1a       1f  0 1f 1f       1f 1f  0 1f       
+deltaK[2]     deltaX[2] 
+ 0  0  1  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+31 a3  0 a3        0  0  0  0      
+1f 1f  0 1f        0  0  0  0      
+Proba :2^-107
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+dc dc  0  0       dc dc  0  0       73 e5  0  0       73 e5  0  0       dc  0  0  0       
+ 0 dc 28  0        0 dc 28  0        0 46 e8  0       46 e8  0  0       f4 dc  0  6       
+ 0 18 18  0        0 18 18  0        0  3 f0  0       f0  0  0  3       ce  0  0  3       
+23  0 23  0       23  0 23  0       f2  0  3  0        0 f2  0  3       23 23  0  5       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+dc  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+ 0 dc f4 f4       f4  0 f4 f2       dc  0 dc 28        0 dc 28 dc       
+ 0 18  0  0       ce 18  0  3       18 18  0 18        0 18 18 18       
+23 23  0  0        0  0  0  5        0  0  0 23       23  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  0  0  0        0  0  0  0      
+ 0 dc 28 dc        0  0  0  0      
+ 0 18 18 18        0  0  0  0      
+23  0  0  0        0  0  0  0      
+Proba :2^-107
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+1a 1a  0  0       1a 1a  0  0       48  4  0  0       48  4  0  0       1a  0  0  0       
+ 0 1a b5  0        0 1a b5  0        0 16 16  0       16 16  0  0       af 1a  0 94       
+ 0 b5 b5  0        0 b5 b5  0        0 4a b0  0       b0  0  0 4a       25 44  0 4a       
+7e  0 7e  0       7e  0 7e  0       32  0 4a  0        0 32  0 4a       7e 7e  0 de       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+1a  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+ 0 1a af af       af  0 af 3b       1a  0 1a b5        0 1a b5 1a       
+ 0 b5  0  0       25 f1  0 4a       b5 b5  0 b5        0 b5 b5 b5       
+7e 7e  0  0        0  0  0 de        0  0  0 7e       7e  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  0  0  0        0  0  0  0      
+ 0 1a b5 1a        0  0  0  0      
+ 0 b5 b5 b5        0  0  0  0      
+7e  0  0  0        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+33 58  0  0       33 58  0  0       3a  4  0  0       3a  4  0  0       33  0 6b  0       
+ 0  8 64  0        0  8 64  0        0 87  4  0       87  4  0  0       4b  8  6  0       
+ c  0  c  0        c  0  c  0       bb  0 d5  0       d5  0 bb  0        c  c  6  0       
+1c 1c  0  0       1c 1c  0  0        4 d0  0  0        0  4 d0  0       1c  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+33 6b 6b 6b        0 6b  0 6b        0 6b  0 6b        0 6b  0 6b       
+ 0  8 6c 6c       4b  0 6a 6c        8  0  8 64        0  8 64  8       
+ c  c  0  0        0  0  6  0        0  0  c  0        c  0  0  0       
+1c  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 6b  0 6b        0  0  0  0      
+ 0  8 64  8        0  0  0  0      
+ c  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-108
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+49 62  0  0       49 62  0  0       11  d  0  0       11  d  0  0       49 e6 2b  0       
+ 0  7 92  0        0  7 92  0        0 65 f6  0       65 f6  0  0       8c  7 4f  0       
+e7  0 e7  0       e7  0 e7  0       32  0 c4  0       c4  0 32  0       e7 e7 4f  0       
+92 92  0  0       92 92  0  0       fd 19  0  0        0 fd 19  0       92  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+49 2b 2b 2b        0 cd  0 2b        0 2b  0 2b        0 2b  0 2b       
+ 0  7 95 95       8c  0 da 95        7  0  7 92        0  7 92  7       
+e7 e7  0  0        0  0 4f  0        0  0 e7  0       e7  0  0  0       
+92  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 2b  0 2b        0  0  0  0      
+ 0  7 92  7        0  0  0  0      
+e7  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+9f 9f 43  0       9f 9f 43  0       64 23 97  0       64 23 97  0       1d 3d  0  0       
+ 0  0 db  0        0  0 db  0        0  0 58  0        0 58  0  0        0  0 db  0       
+d5  0 d5  0       d5  0 d5  0       b1  0 d5  0       d5  0 b1  0       d5 d5 79  0       
+79 79  0  0       79 79  0  0       93 84  0  0        0 93 84  0       79  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+9f  0 43 43       82 3d 43 43       45 45  6 45       45 45  6 45       
+ 0  0 db db        0  0  0 db        0  0  0 db        0  0 db  0       
+d5 d5  0  0        0  0 79  0        0  0 d5  0       d5  0  0  0       
+79  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+45 45  6 45        0  0  0  0      
+ 0  0 db  0        0  0  0  0      
+d5  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-108
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+eb f7 fc  0       eb f7 fc  0       ec e7 5b  0       ec e7 5b  0       6e f0  0  0       
+ 0  0  1  0        0  0  1  0        0  0 c2  0        0 c2  0  0        0  0  1  0       
+ad  0 ad  0       ad  0 ad  0       76  0 ad  0       ad  0 76  0       ad ad ec  0       
+82 82  0  0       82 82  0  0       78 c0  0  0        0 78 c0  0       82  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+eb 1c e0 e0       85 ec e0 e0       f4 e8  8 e8       f4 e8  8 e8       
+ 0  0  1  1        0  0  0  1        0  0  0  1        0  0  1  0       
+ad ad  0  0        0  0 ec  0        0  0 ad  0       ad  0  0  0       
+82  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+f4 e8  8 e8        0  0  0  0      
+ 0  0  1  0        0  0  0  0      
+ad  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-108
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+aa aa 47  0       aa aa 47  0       9a 19 62  0       9a 19 62  0       59 88  5  0       
+ 0  0 89  0        0  0 89  0        0  0 a3  0        0 a3  0  0        0  0 89  0       
+76  0 76  0       76  0 76  0       15  0 76  0       76  0 15  0       76 76 2f  0       
+c3 c3  0  0       c3 c3  0  0       44 d4  0  0        0 44 d4  0       c3  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+aa  0 47 47       f3 88 42 47       6e 6e 29 6e       6e 6e 29 6e       
+ 0  0 89 89        0  0  0 89        0  0  0 89        0  0 89  0       
+76 76  0  0        0  0 2f  0        0  0 76  0       76  0  0  0       
+c3  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+6e 6e 29 6e        0  0  0  0      
+ 0  0 89  0        0  0  0  0      
+76  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-107
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ f fc 57  0        f fc 57  0       92 c2 d0  0       92 c2 d0  0       b8 30 98  0       
+ 0  0 c5  0        0  0 c5  0        0  0 6d  0        0 6d  0  0        0  0 c5  0       
+87  0 87  0       87  0 87  0       1b  0 87  0       87  0 1b  0       87 87 ae  0       
+2a 2a  0  0       2a 2a  0  0       18 38  0  0        0 18 38  0       2a  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ f f3 a4 a4       b7 c3 3c a4       ca 39 9d 39       ca 39 9d 39       
+ 0  0 c5 c5        0  0  0 c5        0  0  0 c5        0  0 c5  0       
+87 87  0  0        0  0 ae  0        0  0 87  0       87  0  0  0       
+2a  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+ca 39 9d 39        0  0  0  0      
+ 0  0 c5  0        0  0  0  0      
+87  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 85  0        0  0 85  0        0  0 a6  0        0  0 a6  0       f6 78 85  0       
+ 0 e7 12  0        0 e7 12  0        0 62 9f  0       62 9f  0  0       34 e7  0  0       
+c2  0 c2  0       c2  0 c2  0       3a  0 50  0       50  0 3a  0       c2 c2 f1  0       
+32 32  0  0       32 32  0  0       c2 e8  0  0        0 c2 e8  0       32  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 85 85       f6 78  0 85       85 85  0 85       85 85  0 85       
+ 0 e7 f5 f5       34  0 f5 f5       e7  0 e7 12        0 e7 12 e7       
+c2 c2  0  0        0  0 f1  0        0  0 c2  0       c2  0  0  0       
+32  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+85 85  0 85        0  0  0  0      
+ 0 e7 12 e7        0  0  0  0      
+c2  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-108
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 76  0        0  0 76  0        0  0 ea  0        0  0 ea  0       8d 31 76  0       
+ 0 27  8  0        0 27  8  0        0 6b 16  0       6b 16  0  0       86 27 d2  0       
+ b  0  b  0        b  0  b  0       cd  0 30  0       30  0 cd  0        b  b f7  0       
+5b 5b  0  0       5b 5b  0  0        b 74  0  0        0  b 74  0       5b  0  0  0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 76 76       8d 31  0 76       76 76  0 76       76 76  0 76       
+ 0 27 2f 2f       86  0 fd 2f       27  0 27  8        0 27  8 27       
+ b  b  0  0        0  0 f7  0        0  0  b  0        b  0  0  0       
+5b  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+deltaK[2]     deltaX[2] 
+76 76  0 76        0  0  0  0      
+ 0 27  8 27        0  0  0  0      
+ b  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  9  9  0        0  9  9  0        0  6 85  0        0  6 85  0       9b  9  0  0       
+b6  0  0  0       b6  0  0  0        2  0  0  0        0  0  0  2       b6  3 b6 12       
+2d 24  9  0       2d 24  9  0       11  8 9b  0       9b  0 11  8       2d  9 a7  0       
+9b  0 1e  0       9b  0 1e  0        5  0  e  0        0  5  0  e       9b  0 85 16       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  9  0  0       9b  0  0  0        9  0  0  0        9  0  0  0       
+b6 b6 b6 b6        0 b5  0 a4        0 b6  0 b6       b6  0 b6  0       
+2d  9  0  0        0  0 a7  0        0  0  9  0        9  0  0  0       
+9b 9b 85 85        0 9b  0 93        0 85  0 9b       9b  0 85  0       
+deltaK[2]     deltaX[2] 
+ 9  0  0  0        0  0  0  0      
+b6  0 b6  0        0  0  0  0      
+ 9  0  0  0        0  0  0  0      
+9b  0 85  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 89 89  0        0 89 89  0        0 8e 56  0        0 8e 56  0       9e 89  0  0       
+b9  0  0  0       b9  0  0  0       5a  0  0  0        0  0  0 5a       b9  0 b9 bc       
+27 20  7  0       27 20  7  0       ac 73 9e  0       9e  0 ac 73       27  7 15  0       
+9e  0 c8  0       9e  0 c8  0       8e  0 9d  0        0 8e  0 9d       9e 8e 56  8       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 89  0  0       9e  0  0  0       89  0  0  0       89  0  0  0       
+b9 b9 b9 b9        0 b9  0  5        0 b9  0 b9       b9  0 b9  0       
+27  7  0  0        0  0 15  0        0  0  7  0        7  0  0  0       
+9e 9e 56 56        0 10  0 5e        0 56  0 9e       9e  0 56  0       
+deltaK[2]     deltaX[2] 
+89  0  0  0        0  0  0  0      
+b9  0 b9  0        0  0  0  0      
+ 7  0  0  0        0  0  0  0      
+9e  0 56  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 c6 c6  0        0 c6 c6  0        0 3b  a  0        0 3b  a  0       12 c6  0  0       
+36  0  0  0       36  0  0  0       5b  0  0  0        0  0  0 5b       36 8b 36 b5       
+24 d4 f0  0       24 d4 f0  0       14 77 12  0       12  0 14 77       24 f0 22  0       
+12  0 18  0       12  0 18  0       b0  0 9a  0        0 b0  0 9a       12 36  a  3       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 c6  0  0       12  0  0  0       c6  0  0  0       c6  0  0  0       
+36 36 36 36        0 bd  0 83        0 36  0 36       36  0 36  0       
+24 f0  0  0        0  0 22  0        0  0 f0  0       f0  0  0  0       
+12 12  a  a        0 24  0  9        0  a  0 12       12  0  a  0       
+deltaK[2]     deltaX[2] 
+c6  0  0  0        0  0  0  0      
+36  0 36  0        0  0  0  0      
+f0  0  0  0        0  0  0  0      
+12  0  a  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 1a 23  0        0 1a 23  0        0 8c d6  0        0 8c d6  0       de 1a  0 39       
+79  0  0  0       79  0  0  0       54  0  0  0        0  0  0 54       79 95 79 6d       
+a7  0 a7  0       a7  0 a7  0        c  0 de  0       de  0  c  0       a7 a7 18  0       
+de 63 bd  0       de 63 bd  0       19 bb c5  0        0 19 bb c5       de bd  0 c5       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 1a 39 39       de  0 39  0       1a  0 39  0       1a  0 39  0       
+79 79 79 79        0 ec  0 14        0 79  0 79       79  0 79  0       
+a7 a7  0  0        0  0 18  0        0  0 a7  0       a7  0  0  0       
+de bd  0  0        0  0  0 c5        0  0  0 bd       bd  0  0  0       
+deltaK[2]     deltaX[2] 
+1a  0 39  0        0  0  0  0      
+79  0 79  0        0  0  0  0      
+a7  0  0  0        0  0  0  0      
+bd  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 7d 43  0        0 7d 43  0        0 c0 d9  0        0 c0 d9  0       f5 7d 22 3e       
+ 4  0  0  0        4  0  0  0       9d  0  0  0        0  0  0 9d        4 26  4 a3       
+f1  0 f1  0       f1  0 f1  0       2b  0 f5  0       f5  0 2b  0       f1 f1 74  0       
+f5 79 8c  0       f5 79 8c  0       e6 a0 82  0        0 e6 a0 82       f5 8c  0 82       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 7d 3e 3e       f5  0 1c  0       7d  0 3e  0       7d  0 3e  0       
+ 4  4  4  4        0 22  0 a7        0  4  0  4        4  0  4  0       
+f1 f1  0  0        0  0 74  0        0  0 f1  0       f1  0  0  0       
+f5 8c  0  0        0  0  0 82        0  0  0 8c       8c  0  0  0       
+deltaK[2]     deltaX[2] 
+7d  0 3e  0        0  0  0  0      
+ 4  0  4  0        0  0  0  0      
+f1  0  0  0        0  0  0  0      
+8c  0  0  0        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+2b  0 c2  0       2b  0 c2  0       1f  0 f6  0       1f  0 f6  0       3e 2b 26 e9       
+1f  0 1f  0       1f  0 1f  0       ae  0 d4  0        0 d4  0 ae       1f ff  0  0       
+1f 1f  0  0       1f 1f  0  0       9e ae  0  0        0  0 9e ae       1f  0  0  0       
+21 c6 e6  0       21 c6 e6  0       4c 4f ae  0        0 4c 4f ae       21 4c  1 47       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+2b 2b e9 e9       15  0 cf  0       2b  0 e9  0       2b  0 e9  0       
+1f 1f  0  0        0 e0  0  0        0 1f  0  0       1f  0  0  0       
+1f  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+21 e7  1  1        0 ab  0 46        0  1  0 e7       e7  0  1  0       
+deltaK[2]     deltaX[2] 
+2b  0 e9  0        0  0  0  0      
+1f  0  0  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+e7  0  1  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 86  0  0        0 86  0  0        0 a5  0  0        0 a5  0  0        a 86 d0 86       
+1e  0 1c  0       1e  0 1c  0       ef  0 72  0        0 72  0 ef       1e  0  2 69       
+14  0 14  0       14  0 14  0       69  0  a  0        a  0 69  0       14 14  2  0       
+ a  e  4  0        a  e  4  0       41 b9 ac  0        0 41 b9 ac        a  4  0 ac       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 86 86 86        a  0 56  0       86  0 86  0       86  0 86  0       
+1e 1e  2  2        0 1e  0 6b        0 1e  0  2       1e  0  2  0       
+14 14  0  0        0  0  2  0        0  0 14  0       14  0  0  0       
+ a  4  0  0        0  0  0 ac        0  0  0  4        4  0  0  0       
+deltaK[2]     deltaX[2] 
+86  0 86  0        0  0  0  0      
+1e  0  2  0        0  0  0  0      
+14  0  0  0        0  0  0  0      
+ 4  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 be  0  0        0 be  0  0        0 b9  0  0        0 b9  0  0       a9 be 83 be       
+e0  0 75  0       e0  0 75  0       fd  0 a9  0        0 a9  0 fd       e0 c7 95 43       
+49  0 49  0       49  0 49  0        b  0 a9  0       a9  0  b  0       49 49 95  0       
+a9 be 17  0       a9 be 17  0       37 88 a2  0        0 37 88 a2       a9 17  0 a2       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 be be be       a9  0 3d  0       be  0 be  0       be  0 be  0       
+e0 e0 95 95        0 27  0 d6        0 e0  0 95       e0  0 95  0       
+49 49  0  0        0  0 95  0        0  0 49  0       49  0  0  0       
+a9 17  0  0        0  0  0 a2        0  0  0 17       17  0  0  0       
+deltaK[2]     deltaX[2] 
+be  0 be  0        0  0  0  0      
+e0  0 95  0        0  0  0  0      
+49  0  0  0        0  0  0  0      
+17  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+b8 a0  0  0       b8 a0  0  0        f b7  0  0        f b7  0  0       1e 18 d3 18       
+ f  0  0  0        f  0  0  0       da  0  0  0        0  0  0 da        f da  f 18       
+ f  f  0  0        f  f  0  0       6e 6d  0  0        0  0 6e 6d        f  0  0  0       
+11 1e  0  0       11 1e  0  0       6d bd  0  0        0 6d bd  0       11 18  f b7       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+b8 18 18 18       a6  0 cb  0       18  0 18  0       18  0 18  0       
+ f  f  f  f        0 d5  0 17        0  f  0  f        f  0  f  0       
+ f  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+11  f  f  f        0 17  0 b8        0  f  0  f        f  0  f  0       
+deltaK[2]     deltaX[2] 
+18  0 18  0        0  0  0  0      
+ f  0  f  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ f  0  f  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+bf 8b  0  0       bf 8b  0  0       6b ce  0  0       6b ce  0  0       d6 34 15 34       
+6b  0  0  0       6b  0  0  0       34  0  0  0        0  0  0 34       6b 7d 6b  3       
+6b 6b  0  0       6b 6b  0  0       3f 8c  0  0        0  0 3f 8c       6b  0  0  0       
+bd bd 6b  0       bd bd 6b  0       b3 2a e4  0        0 b3 2a e4       bd 34 6b 6b       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+bf 34 34 34       69  0 21  0       34  0 34  0       34  0 34  0       
+6b 6b 6b 6b        0 16  0 68        0 6b  0 6b       6b  0 6b  0       
+6b  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+bd  0 6b 6b        0 34  0  0        0 6b  0  0        0  0 6b  0       
+deltaK[2]     deltaX[2] 
+34  0 34  0        0  0  0  0      
+6b  0 6b  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 6b  0        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+af  0  0  0       af  0  0  0       45  0  0  0       45  0  0  0       45 af 88 af       
+ f  0  f  0        f  0  f  0       65  0 65  0        0 65  0 65        f ca  0  0       
+c0 a5 65  0       c0 a5 65  0       44 65 cf  0       cf  0 44 65       c0 65 c7  0       
+ 0 64 a3  0        0 64 a3  0        0 cc 65  0        0  0 cc 65        0 65 c7 ca       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+af af af af       ea  0 27  0       af  0 af  0       af  0 af  0       
+ f  f  0  0        0 c5  0  0        0  f  0  0        f  0  0  0       
+c0 65  0  0        0  0 c7  0        0  0 65  0       65  0  0  0       
+ 0 64 c7 c7        0  1  0  d        0 c7  0 64       64  0 c7  0       
+deltaK[2]     deltaX[2] 
+af  0 af  0        0  0  0  0      
+ f  0  0  0        0  0  0  0      
+65  0  0  0        0  0  0  0      
+64  0 c7  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+f0 e4 89  0       f0 e4 89  0       6b  a aa  0       6b  a aa  0       6b 14  0 9d       
+b7  0  0  0       b7  0  0  0       2f  0  0  0        0  0  0 2f       b7  a b7 b2       
+ a  0  a  0        a  0  a  0       29  0 bd  0       bd  0 29  0        a  a 52  0       
+ 0 1e 1e  0        0 1e 1e  0        0 66 ec  0        0  0 66 ec        0 1e  0 ec       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+f0 14 9d 9d       9b  0 9d  0       14  0 9d  0       14  0 9d  0       
+b7 b7 b7 b7        0 bd  0  5        0 b7  0 b7       b7  0 b7  0       
+ a  a  0  0        0  0 52  0        0  0  a  0        a  0  0  0       
+ 0 1e  0  0        0  0  0 ec        0  0  0 1e       1e  0  0  0       
+deltaK[2]     deltaX[2] 
+14  0 9d  0        0  0  0  0      
+b7  0 b7  0        0  0  0  0      
+ a  0  0  0        0  0  0  0      
+1e  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+8f 6f f5  0       8f 6f f5  0       10 70 b7  0       10 70 b7  0       10 e0 2f 15       
+40  0  0  0       40  0  0  0       49  0  0  0        0  0  0 49       40 70 40 5c       
+70  0 70  0       70  0 70  0       db  0 30  0       30  0 db  0       70 70 82  0       
+ 0 90 90  0        0 90 90  0        0 81 ce  0        0  0 81 ce        0 90  0 ce       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+8f e0 15 15       9f  0 3a  0       e0  0 15  0       e0  0 15  0       
+40 40 40 40        0 30  0 1c        0 40  0 40       40  0 40  0       
+70 70  0  0        0  0 82  0        0  0 70  0       70  0  0  0       
+ 0 90  0  0        0  0  0 ce        0  0  0 90       90  0  0  0       
+deltaK[2]     deltaX[2] 
+e0  0 15  0        0  0  0  0      
+40  0 40  0        0  0  0  0      
+70  0  0  0        0  0  0  0      
+90  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+c5  0 67  0       c5  0 67  0       c2  0 23  0       c2  0 23  0       78 c5 7f a2       
+78 79  1  0       78 79  1  0       a2 5d 43  0       5d 43  0 a2       78 86  0  0       
+43  0  0  0       43  0  0  0        d  0  0  0        0  0  d  0       9f 43 65 43       
+ 0 43 43  0        0 43 43  0        0 34 5f  0        0  0 34 5f        0 43  0 1c       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+c5 c5 a2 a2       bd  0 dd  0       c5  0 a2  0       c5  0 a2  0       
+78  1  0  0        0 87  0  0        0  1  0  0        1  0  0  0       
+43 43 43 43       dc  0 26  0       43  0 43  0       43  0 43  0       
+ 0 43  0  0        0  0  0 1c        0  0  0 43       43  0  0  0       
+deltaK[2]     deltaX[2] 
+c5  0 a2  0        0  0  0  0      
+ 1  0  0  0        0  0  0  0      
+43  0 43  0        0  0  0  0      
+43  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 64 4a  0        0 64 4a  0        0 51 49  0        0 51 49  0       82 64 72 2e       
+ 0 a9  0  0        0 a9  0  0        0 5a  0  0       5a  0  0  0        0 97 a9 2e       
+ 0  0 72  0        0  0 72  0        0  0 6c  0       6c  0  0  0       82  0 72 72       
+36 52 64  0       36 52 64  0       c6 e0 2e  0        0 c6 e0 2e       36 64  0 5c       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 64 2e 2e       82  0 5c  0       64  0 2e  0       64  0 2e  0       
+ 0 a9 a9 a9        0 3e  0 87        0 a9  0 a9       a9  0 a9  0       
+ 0  0 72 72       82  0  0  0       72  0  0  0        0  0 72  0       
+36 64  0  0        0  0  0 5c        0  0  0 64       64  0  0  0       
+deltaK[2]     deltaX[2] 
+64  0 2e  0        0  0  0  0      
+a9  0 a9  0        0  0  0  0      
+ 0  0 72  0        0  0  0  0      
+64  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+1b  a  0  0       1b  a  0  0       ec dc  0  0       ec dc  0  0       ec 11 3f 11       
+9d  0 f6  0       9d  0 f6  0       4a  0 6e  0        0 6e  0 4a       9d  0 6b 5b       
+b2  0 b2  0       b2  0 b2  0       2a  0 2f  0       2f  0 2a  0       b2 b2 6b  0       
+ 0 11 11  0        0 11 11  0        0 15 cf  0        0  0 15 cf        0 11  0 cf       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+1b 11 11 11       f7  0 2e  0       11  0 11  0       11  0 11  0       
+9d 9d 6b 6b        0 9d  0 30        0 9d  0 6b       9d  0 6b  0       
+b2 b2  0  0        0  0 6b  0        0  0 b2  0       b2  0  0  0       
+ 0 11  0  0        0  0  0 cf        0  0  0 11       11  0  0  0       
+deltaK[2]     deltaX[2] 
+11  0 11  0        0  0  0  0      
+9d  0 6b  0        0  0  0  0      
+b2  0  0  0        0  0  0  0      
+11  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+16 87  0  0       16 87  0  0       8d 18  0  0       8d 18  0  0       8d 91 27 91       
+ 2  0 51  0        2  0 51  0       2a  0 96  0        0 96  0 2a        2 2f 53 bb       
+8e  0 8e  0       8e  0 8e  0       3a  0 8c  0       8c  0 3a  0       8e 8e 53  0       
+ 0 be be  0        0 be be  0        0 1d ef  0        0  0 1d ef        0 be  0 ef       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+16 91 91 91       9b  0 b6  0       91  0 91  0       91  0 91  0       
+ 2  2 53 53        0 2d  0 e8        0  2  0 53        2  0 53  0       
+8e 8e  0  0        0  0 53  0        0  0 8e  0       8e  0  0  0       
+ 0 be  0  0        0  0  0 ef        0  0  0 be       be  0  0  0       
+deltaK[2]     deltaX[2] 
+91  0 91  0        0  0  0  0      
+ 2  0 53  0        0  0  0  0      
+8e  0  0  0        0  0  0  0      
+be  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ d aa  0  0        d aa  0  0        6 9b  0  0        6 9b  0  0        0 a7  a a7       
+12  0  0  0       12  0  0  0       b1  0  0  0        0  0  0 b1       12 11 12 16       
+1e  0 1e  0       1e  0 1e  0        c  0  c  0        c  0  c  0       1e 1e 12  0       
+ 6 bf b9  0        6 bf b9  0       8a  6 6f  0        0 8a  6 6f        6 b9  0 6f       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ d a7 a7 a7        d  0 ad  0       a7  0 a7  0       a7  0 a7  0       
+12 12 12 12        0  3  0  4        0 12  0 12       12  0 12  0       
+1e 1e  0  0        0  0 12  0        0  0 1e  0       1e  0  0  0       
+ 6 b9  0  0        0  0  0 6f        0  0  0 b9       b9  0  0  0       
+deltaK[2]     deltaX[2] 
+a7  0 a7  0        0  0  0  0      
+12  0 12  0        0  0  0  0      
+1e  0  0  0        0  0  0  0      
+b9  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+93 fa  0  0       93 fa  0  0       3b 27  0  0       3b 27  0  0       c1 69 bf 69       
+f9  0  0  0       f9  0  0  0       68  0  0  0        0  0  0 68       f9  0 f9  1       
+4e  0 4e  0       4e  0 4e  0       23  0 b7  0       b7  0 23  0       4e 4e f9  0       
+fa dd 27  0       fa dd 27  0       27 9c d1  0        0 27 9c d1       fa 27  0 d1       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+93 69 69 69       52  0 d6  0       69  0 69  0       69  0 69  0       
+f9 f9 f9 f9        0 f9  0 f8        0 f9  0 f9       f9  0 f9  0       
+4e 4e  0  0        0  0 f9  0        0  0 4e  0       4e  0  0  0       
+fa 27  0  0        0  0  0 d1        0  0  0 27       27  0  0  0       
+deltaK[2]     deltaX[2] 
+69  0 69  0        0  0  0  0      
+f9  0 f9  0        0  0  0  0      
+4e  0  0  0        0  0  0  0      
+27  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+33 db  0  0       33 db  0  0       89 76  0  0       89 76  0  0       fd e8 8c e8       
+8e  0  0  0       8e  0  0  0       4e  0  0  0        0  0  0 4e       8e 72 8e a6       
+7a  0 7a  0       7a  0 7a  0        1  0 f4  0       f4  0  1  0       7a 7a 8e  0       
+74 e6 92  0       74 e6 92  0        4 8d 3a  0        0  4 8d 3a       74 92  0 3a       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+33 e8 e8 e8       ce  0 64  0       e8  0 e8  0       e8  0 e8  0       
+8e 8e 8e 8e        0 fc  0 28        0 8e  0 8e       8e  0 8e  0       
+7a 7a  0  0        0  0 8e  0        0  0 7a  0       7a  0  0  0       
+74 92  0  0        0  0  0 3a        0  0  0 92       92  0  0  0       
+deltaK[2]     deltaX[2] 
+e8  0 e8  0        0  0  0  0      
+8e  0 8e  0        0  0  0  0      
+7a  0  0  0        0  0  0  0      
+92  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+a1 9f 3e  0       a1 9f 3e  0       a7 ab d1  0       a7 ab d1  0       a7 3e  0  0       
+aa  0 ab  0       aa  0 ab  0       45  0 d8  0        0 d8  0 45       aa  0  1 5b       
+58 2b 73  0       58 2b 73  0       b9  f f2  0       f2  0 b9  f       58 73 b8  0       
+ 0  0 d1  0        0  0 d1  0        0  0 c0  0        0  0  0 c0        0 3e d1 d1       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+a1 3e  0  0        6  0  0  0       3e  0  0  0       3e  0  0  0       
+aa aa  1  1        0 aa  0 5a        0 aa  0  1       aa  0  1  0       
+58 73  0  0        0  0 b8  0        0  0 73  0       73  0  0  0       
+ 0  0 d1 d1        0 3e  0  0        0 d1  0  0        0  0 d1  0       
+deltaK[2]     deltaX[2] 
+3e  0  0  0        0  0  0  0      
+aa  0  1  0        0  0  0  0      
+73  0  0  0        0  0  0  0      
+ 0  0 d1  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+97 19 8e  0       97 19 8e  0       7e fe d1  0       7e fe d1  0       7e 8e  0  0       
+e3  0 e2  0       e3  0 e2  0       45  0 27  0        0 27  0 45       e3 b0  1 5b       
+61 b8 d9  0       61 b8 d9  0       b9  f 82  0       82  0 b9  f       61 d9 b8  0       
+ 0  0 d1  0        0  0 d1  0        0  0 c0  0        0  0  0 c0        0 3e d1 d1       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+97 8e  0  0       e9  0  0  0       8e  0  0  0       8e  0  0  0       
+e3 e3  1  1        0 53  0 5a        0 e3  0  1       e3  0  1  0       
+61 d9  0  0        0  0 b8  0        0  0 d9  0       d9  0  0  0       
+ 0  0 d1 d1        0 3e  0  0        0 d1  0  0        0  0 d1  0       
+deltaK[2]     deltaX[2] 
+8e  0  0  0        0  0  0  0      
+e3  0  1  0        0  0  0  0      
+d9  0  0  0        0  0  0  0      
+ 0  0 d1  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+af  0 dd  0       af  0 dd  0        9  0 5c  0        9  0 5c  0       9b af e4 72       
+89  0 89  0       89  0 89  0       2e  0 af  0        0 af  0 2e       89  0  0  0       
+ 0 60 60  0        0 60 60  0        0 2e 89  0       89  0  0 2e        0 60 b8  0       
+92 92 5c  0       92 92 5c  0       45 5c 2e  0        0 45 5c 2e       92 25 5c 5c       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+af af 72 72       34  0 96  0       af  0 72  0       af  0 72  0       
+89 89  0  0        0 89  0  0        0 89  0  0       89  0  0  0       
+ 0 60  0  0        0  0 b8  0        0  0 60  0       60  0  0  0       
+92  0 5c 5c        0 25  0  0        0 5c  0  0        0  0 5c  0       
+deltaK[2]     deltaX[2] 
+af  0 72  0        0  0  0  0      
+89  0  0  0        0  0  0  0      
+60  0  0  0        0  0  0  0      
+ 0  0 5c  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+b4  0 d4  0       b4  0 d4  0       7a  0 40  0       7a  0 40  0       c9 b4 c0 60       
+3d  0 3d  0       3d  0 3d  0       20  0 1b  0        0 1b  0 20       3d af  0  0       
+ 0 ab ab  0        0 ab ab  0        0 20 3d  0       3d  0  0 20        0 ab 80  0       
+b3 b3 40  0       b3 b3 40  0       99 40 20  0        0 99 40 20       b3 32 40 40       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+b4 b4 60 60       7d  0 a0  0       b4  0 60  0       b4  0 60  0       
+3d 3d  0  0        0 92  0  0        0 3d  0  0       3d  0  0  0       
+ 0 ab  0  0        0  0 80  0        0  0 ab  0       ab  0  0  0       
+b3  0 40 40        0 32  0  0        0 40  0  0        0  0 40  0       
+deltaK[2]     deltaX[2] 
+b4  0 60  0        0  0  0  0      
+3d  0  0  0        0  0  0  0      
+ab  0  0  0        0  0  0  0      
+ 0  0 40  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+51  0  0  0       51  0  0  0       5c  0  0  0       5c  0  0  0        0 51 62 51       
+8f  0 8f  0       8f  0 8f  0       c6  0 51  0        0 51  0 c6       8f  0  0  0       
+37 9b ac  0       37 9b ac  0       31 c6 b8  0       b8  0 31 c6       37 ac 97  0       
+5c 5c 97  0       5c 5c 97  0       a2 53 c6  0        0 a2 53 c6       5c  e 97 97       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+51 51 51 51       51  0 33  0       51  0 51  0       51  0 51  0       
+8f 8f  0  0        0 8f  0  0        0 8f  0  0       8f  0  0  0       
+37 ac  0  0        0  0 97  0        0  0 ac  0       ac  0  0  0       
+5c  0 97 97        0  e  0  0        0 97  0  0        0  0 97  0       
+deltaK[2]     deltaX[2] 
+51  0 51  0        0  0  0  0      
+8f  0  0  0        0  0  0  0      
+ac  0  0  0        0  0  0  0      
+ 0  0 97  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+80  0  0  0       80  0  0  0       d3  0  0  0       d3  0  0  0        0 80  6 80       
+ f  0  f  0        f  0  f  0       89  0 a2  0        0 a2  0 89        f 22  0  0       
+b2 97 25  0       b2 97 25  0        3 89 bd  0       bd  0  3 89       b2 25  9  0       
+d3 d3  9  0       d3 d3  9  0       7d  5 89  0        0 7d  5 89       d3 58  9  9       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+80 80 80 80       80  0 86  0       80  0 80  0       80  0 80  0       
+ f  f  0  0        0 2d  0  0        0  f  0  0        f  0  0  0       
+b2 25  0  0        0  0  9  0        0  0 25  0       25  0  0  0       
+d3  0  9  9        0 58  0  0        0  9  0  0        0  0  9  0       
+deltaK[2]     deltaX[2] 
+80  0 80  0        0  0  0  0      
+ f  0  0  0        0  0  0  0      
+25  0  0  0        0  0  0  0      
+ 0  0  9  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+68  0  0  0       68  0  0  0       f0  0  0  0       f0  0  0  0       8e 68 ac 68       
+6f  0 6f  0       6f  0 6f  0       d1  0 68  0        0 68  0 d1       6f  0  0  0       
+1a 19  3  0       1a 19  3  0       56 d1 75  0       75  0 56 d1       1a  3 b9  0       
+7e 7e b9  0       7e 7e b9  0       d0 fa d1  0        0 d0 fa d1       7e d3 b9 b9       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+68 68 68 68       e6  0 c4  0       68  0 68  0       68  0 68  0       
+6f 6f  0  0        0 6f  0  0        0 6f  0  0       6f  0  0  0       
+1a  3  0  0        0  0 b9  0        0  0  3  0        3  0  0  0       
+7e  0 b9 b9        0 d3  0  0        0 b9  0  0        0  0 b9  0       
+deltaK[2]     deltaX[2] 
+68  0 68  0        0  0  0  0      
+6f  0  0  0        0  0  0  0      
+ 3  0  0  0        0  0  0  0      
+ 0  0 b9  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+80  0  0  0       80  0  0  0        9  0  0  0        9  0  0  0       a7 80  6 80       
+cd  0 cd  0       cd  0 cd  0       89  0 a2  0        0 a2  0 89       cd 22  0  0       
+78 5d 25  0       78 5d 25  0        3 89 b5  0       b5  0  3 89       78 25  9  0       
+ae ae  9  0       ae ae  9  0       7d  5 89  0        0 7d  5 89       ae 58  9  9       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+80 80 80 80       27  0 86  0       80  0 80  0       80  0 80  0       
+cd cd  0  0        0 ef  0  0        0 cd  0  0       cd  0  0  0       
+78 25  0  0        0  0  9  0        0  0 25  0       25  0  0  0       
+ae  0  9  9        0 58  0  0        0  9  0  0        0  0  9  0       
+deltaK[2]     deltaX[2] 
+80  0 80  0        0  0  0  0      
+cd  0  0  0        0  0  0  0      
+25  0  0  0        0  0  0  0      
+ 0  0  9  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+81 81 17  0       81 81 17  0       81 e5  5  0       81 e5  5  0       81  0  0 17       
+32  0 2f  0       32  0 2f  0       c5  0 4f  0        0 4f  0 c5       32 7b 1d d2       
+aa  0 aa  0       aa  0 aa  0        9  0 98  0       98  0  9  0       aa aa 12  0       
+ 0 7b 7b  0        0 7b 7b  0        0  3 43  0        0  0  3 43        0 7b  0 43       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+81  0 17 17        0  0 17  0        0  0 17  0        0  0 17  0       
+32 32 1d 1d        0 49  0 cf        0 32  0 1d       32  0 1d  0       
+aa aa  0  0        0  0 12  0        0  0 aa  0       aa  0  0  0       
+ 0 7b  0  0        0  0  0 43        0  0  0 7b       7b  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  0 17  0        0  0  0  0      
+32  0 1d  0        0  0  0  0      
+aa  0  0  0        0  0  0  0      
+7b  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+2b 2b 1e  0       2b 2b 1e  0       2b 68 5a  0       2b 68 5a  0       2b  0 c7 1e       
+ac  0 7c  0       ac  0 7c  0       85  0 b9  0        0 b9  0 85       ac  1 d0 9b       
+d1  0 d1  0       d1  0 d1  0       f1  0 7d  0       7d  0 f1  0       d1 d1 3e  0       
+ 0  1  1  0        0  1  1  0        0 82 8a  0        0  0 82 8a        0  1  0 8a       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+2b  0 1e 1e        0  0 d9  0        0  0 1e  0        0  0 1e  0       
+ac ac d0 d0        0 ad  0 4b        0 ac  0 d0       ac  0 d0  0       
+d1 d1  0  0        0  0 3e  0        0  0 d1  0       d1  0  0  0       
+ 0  1  0  0        0  0  0 8a        0  0  0  1        1  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  0 1e  0        0  0  0  0      
+ac  0 d0  0        0  0  0  0      
+d1  0  0  0        0  0  0  0      
+ 1  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+70 70 18  0       70 70 18  0       41 57 a8  0       41 57 a8  0       70  0  0 18       
+4c  0  0  0       4c  0  0  0        a  0  0  0        0  0  0  a       4c f9 4c 12       
+be  0 be  0       be  0 be  0       da  0 f2  0       f2  0 da  0       be be af  0       
+31 8f be  0       31 8f be  0       ae 91  6  0        0 ae 91  6       31 be  0  6       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+70  0 18 18        0  0 18  0        0  0 18  0        0  0 18  0       
+4c 4c 4c 4c        0 b5  0 5e        0 4c  0 4c       4c  0 4c  0       
+be be  0  0        0  0 af  0        0  0 be  0       be  0  0  0       
+31 be  0  0        0  0  0  6        0  0  0 be       be  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  0 18  0        0  0  0  0      
+4c  0 4c  0        0  0  0  0      
+be  0  0  0        0  0  0  0      
+be  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+80 80 97  0       80 80 97  0       2c 8e a6  0       2c 8e a6  0       80  0 74 97       
+5f  0  0  0       5f  0  0  0       a5  0  0  0        0  0  0 a5       5f 89 5f 32       
+87  0 87  0       87  0 87  0       6d  0 d8  0       d8  0 6d  0       87 87 ae  0       
+ac 2b 87  0       ac 2b 87  0        7 4e 63  0        0  7 4e 63       ac 87  0 63       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+80  0 97 97        0  0 e3  0        0  0 97  0        0  0 97  0       
+5f 5f 5f 5f        0 d6  0 6d        0 5f  0 5f       5f  0 5f  0       
+87 87  0  0        0  0 ae  0        0  0 87  0       87  0  0  0       
+ac 87  0  0        0  0  0 63        0  0  0 87       87  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  0 97  0        0  0  0  0      
+5f  0 5f  0        0  0  0  0      
+87  0  0  0        0  0  0  0      
+87  0  0  0        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0  9  0        0  0  9  0        0  0 d3  0        0  0 d3  0        0  0 51  9       
+97 16 81  0       97 16 81  0        9 31 a1  0       31 a1  0  9       97 a1  0  0       
+b2  0 8d  0       b2  0 8d  0       92  0 53  0       53  0 92  0       97 b2 6e 3f       
+62 28 4a  0       62 28 4a  0       f8 7e 12  0        0 f8 7e 12       62 4a  0 2d       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0  9  9        0  0 58  0        0  0  9  0        0  0  9  0       
+97 81  0  0        0 20  0  0        0 81  0  0       81  0  0  0       
+b2 b2 3f 3f       25  0 51  0       3f  0 b2  0       b2  0 3f  0       
+62 4a  0  0        0  0  0 2d        0  0  0 4a       4a  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  0  9  0        0  0  0  0      
+81  0  0  0        0  0  0  0      
+b2  0 3f  0        0  0  0  0      
+4a  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 78 78  0        0 78 78  0        0 1e 85  0        0 1e 85  0       1e 22 85  6       
+22  0  0  0       22  0  0  0       8f  0  0  0        0  0  0 8f       22  0 22 89       
+3c  0 3c  0       3c  0 3c  0       94  0 1e  0       1e  0 94  0       3c 3c b6  0       
+1e  0 1e  0       1e  0 1e  0       1e  0 8c  0        0 1e  0 8c       1e 1e  0 8c       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 78  0  0       1e 5a 85  6       a5 dd dd dd       a5 dd dd dd       
+22 22 22 22        0 22  0 ab        0 22  0 22       22  0 22  0       
+3c 3c  0  0        0  0 b6  0        0  0 3c  0       3c  0  0  0       
+1e 1e  0  0        0  0  0 8c        0  0  0 1e       1e  0  0  0       
+deltaK[2]     deltaX[2] 
+a5 dd dd dd        0  0  0  0      
+22  0 22  0        0  0  0  0      
+3c  0  0  0        0  0  0  0      
+1e  0  0  0        0  0  0  0      
+Proba :2^-109
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+89  0 89  0       89  0 89  0       c4  0 62  0       c4  0 62  0       57 c4 62 b5       
+93  0  0  0       93  0  0  0       31  0  0  0        0  0  0 31       93 c4 93 84       
+57  0 57  0       57  0 57  0       a6  0 c4  0       c4  0 a6  0       57 57 35  0       
+93  0 93  0       93  0 93  0       c4  0 e6  0        0 c4  0 e6       93 93  0 e6       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+89 89  0  0       de 4d 62 b5       36 bf bf bf       36 bf bf bf       
+93 93 93 93        0 57  0 17        0 93  0 93       93  0 93  0       
+57 57  0  0        0  0 35  0        0  0 57  0       57  0  0  0       
+93 93  0  0        0  0  0 e6        0  0  0 93       93  0  0  0       
+deltaK[2]     deltaX[2] 
+36 bf bf bf        0  0  0  0      
+93  0 93  0        0  0  0  0      
+57  0  0  0        0  0  0  0      
+93  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+92 b8 2a  0       92 b8 2a  0       e0 a9 48  0       e0 a9 48  0       92  0 48  c       
+3b  0  0  0       3b  0  0  0        5  0  0  0        0  0  0  5       3b e0 3b  9       
+72  0 72  0       72  0 72  0       d8  0 49  0       49  0 d8  0       72 72 e3  0       
+72  0 72  0       72  0 72  0       49  0  3  0        0 49  0  3       72 72  0  3       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+92 2a  0  0        0 2a 48  c        0 2a 2a 2a        0 2a 2a 2a       
+3b 3b 3b 3b        0 db  0 32        0 3b  0 3b       3b  0 3b  0       
+72 72  0  0        0  0 e3  0        0  0 72  0       72  0  0  0       
+72 72  0  0        0  0  0  3        0  0  0 72       72  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 2a 2a 2a        0  0  0  0      
+3b  0 3b  0        0  0  0  0      
+72  0  0  0        0  0  0  0      
+72  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+75 4e 3b  0       75 4e 3b  0       b3 bb 6c  0       b3 bb 6c  0       75 65 6c  1       
+ab  0  0  0       ab  0  0  0       46  0  0  0        0  0  0 46       ab b3 ab 47       
+a3  0 a3  0       a3  0 a3  0       b4  0  8  0        8  0 b4  0       a3 a3 1f  0       
+c6  0 c6  0       c6  0 c6  0        8  0 cb  0        0  8  0 cb       c6 c6  0 cb       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+75 3b  0  0        0 5e 6c  1        0 3b 3b 3b        0 3b 3b 3b       
+ab ab ab ab        0 18  0 ec        0 ab  0 ab       ab  0 ab  0       
+a3 a3  0  0        0  0 1f  0        0  0 a3  0       a3  0  0  0       
+c6 c6  0  0        0  0  0 cb        0  0  0 c6       c6  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 3b 3b 3b        0  0  0  0      
+ab  0 ab  0        0  0  0  0      
+a3  0  0  0        0  0  0  0      
+c6  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+d3  0 d3  0       d3  0 d3  0       9d  0 e8  0       9d  0 e8  0       d3 16 e8 fc       
+90  0 1d  0       90  0 1d  0       41  0 16  0        0 16  0 41       90  0 8d bd       
+62  0 62  0       62  0 62  0       23  0 f2  0       f2  0 23  0       62 62 ae  0       
+4e  0 4e  0       4e  0 4e  0       2c  0 3f  0        0 2c  0 3f       4e 4e  0 3f       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+d3 d3  0  0        0 c5 e8 fc        0 d3 d3 d3        0 d3 d3 d3       
+90 90 8d 8d        0 90  0 30        0 90  0 8d       90  0 8d  0       
+62 62  0  0        0  0 ae  0        0  0 62  0       62  0  0  0       
+4e 4e  0  0        0  0  0 3f        0  0  0 4e       4e  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 d3 d3 d3        0  0  0  0      
+90  0 8d  0        0  0  0  0      
+62  0  0  0        0  0  0  0      
+4e  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+85  0 85  0       85  0 85  0       e0  0  4  0       e0  0  4  0       85  0  4  4       
+ 2  0 12  0        2  0 12  0        3  0 17  0        0 17  0  3        2 17 10  7       
+5c  0 5c  0       5c  0 5c  0        c  0 5e  0       5e  0  c  0       5c 5c 1c  0       
+65  0 65  0       65  0 65  0       39  0  1  0        0 39  0  1       65 65  0  1       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+85 85  0  0        0 85  4  4        0 85 85 85        0 85 85 85       
+ 2  2 10 10        0 15  0 17        0  2  0 10        2  0 10  0       
+5c 5c  0  0        0  0 1c  0        0  0 5c  0       5c  0  0  0       
+65 65  0  0        0  0  0  1        0  0  0 65       65  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 85 85 85        0  0  0  0      
+ 2  0 10  0        0  0  0  0      
+5c  0  0  0        0  0  0  0      
+65  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+d7  0 d7  0       d7  0 d7  0       81  0 ee  0       81  0 ee  0       d7 51 ee be       
+c8  0 5d  0       c8  0 5d  0       fd  0 f6  0        0 f6  0 fd       c8 a7 95 43       
+ 6  0  6  0        6  0  6  0       29  0 ce  0       ce  0 29  0        6  6 bc  0       
+56  0 56  0       56  0 56  0       50  0 a2  0        0 50  0 a2       56 56  0 a2       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+d7 d7  0  0        0 86 ee be        0 d7 d7 d7        0 d7 d7 d7       
+c8 c8 95 95        0 6f  0 d6        0 c8  0 95       c8  0 95  0       
+ 6  6  0  0        0  0 bc  0        0  0  6  0        6  0  0  0       
+56 56  0  0        0  0  0 a2        0  0  0 56       56  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 d7 d7 d7        0  0  0  0      
+c8  0 95  0        0  0  0  0      
+ 6  0  0  0        0  0  0  0      
+56  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       1a 53 1a c8       
+2e  0  0  0       2e  0  0  0       35  0  0  0        0  0  0 35       2e 53 2e c8       
+34 c1 f5  0       34 c1 f5  0       1a 97 1a  0       1a  0 1a 97       34 f5 34  0       
+1a  0  0  0       1a  0  0  0       53  0  0  0        0 53  0  0       1a a6 1a a2       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0  0  0       1a 53 1a c8       8b 8b 8b 8b       8b 8b 8b 8b       
+2e 2e 2e 2e        0 7d  0 e6        0 2e  0 2e       2e  0 2e  0       
+34 f5  0  0        0  0 34  0        0  0 f5  0       f5  0  0  0       
+1a 1a 1a 1a        0 bc  0 b8        0 1a  0 1a       1a  0 1a  0       
+deltaK[2]     deltaX[2] 
+8b 8b 8b 8b        0  0  0  0      
+2e  0 2e  0        0  0  0  0      
+f5  0  0  0        0  0  0  0      
+1a  0 1a  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+23  0  0  0       23  0  0  0       8a  0  0  0       8a  0  0  0        f 23 cf 23       
+ 0  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       8a 23 c0 23       
+65  0  0  0       65  0  0  0       8a  0  0  0        0  0 8a  0       8a 65 c0 65       
+85 c3 46  0       85 c3 46  0       23 45 23  0        0 23 45 23       85 46  0 46       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+23 23 23 23       2c  0 ec  0       23  0 23  0       23  0 23  0       
+ 0  0  0  0       8a 23 c0 23       2e 2e 2e 2e       2e 2e 2e 2e       
+65 65 65 65       ef  0 a5  0       65  0 65  0       65  0 65  0       
+85 46  0  0        0  0  0 46        0  0  0 46       46  0  0  0       
+deltaK[2]     deltaX[2] 
+23  0 23  0        0  0  0  0      
+2e 2e 2e 2e        0  0  0  0      
+65  0 65  0        0  0  0  0      
+46  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0  0 aa  0        0  0 aa  0        0  0 e4  0        0  0 e4  0        9  e aa 6b       
+1b  0  0  0       1b  0  0  0       e4  0  0  0        0  0  0 e4       1b  e 1b 8f       
+12  0 12  0       12  0 12  0       43  0  9  0        9  0 43  0       12 12 2c  0       
+ 9 15 1c  0        9 15 1c  0        e 3a 5c  0        0  e 3a 5c        9 1c  0 5c       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0  0 aa aa        9  e  0 c1       aa aa  0 aa       aa aa  0 aa       
+1b 1b 1b 1b        0 15  0 94        0 1b  0 1b       1b  0 1b  0       
+12 12  0  0        0  0 2c  0        0  0 12  0       12  0  0  0       
+ 9 1c  0  0        0  0  0 5c        0  0  0 1c       1c  0  0  0       
+deltaK[2]     deltaX[2] 
+aa aa  0 aa        0  0  0  0      
+1b  0 1b  0        0  0  0  0      
+12  0  0  0        0  0  0  0      
+1c  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 2d  0  0        0 2d  0  0        0 70  0  0        0 70  0  0       f5 2d f5 2d       
+ 4  0  0  0        4  0  0  0       1e  0  0  0        0  0  0 1e        4 bd  4 2d       
+f1 cd 3c  0       f1 cd 3c  0       f5  f f5  0       f5  0 f5  f       f1 3c f1  0       
+11  0  0  0       11  0  0  0       cd  0  0  0        0 cd  0  0       f5 11 f5 11       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 2d 2d 2d       f5  0 d8  0       2d  0 2d  0       2d  0 2d  0       
+ 4  4  4  4        0 b9  0 29        0  4  0  4        4  0  4  0       
+f1 3c  0  0        0  0 f1  0        0  0 3c  0       3c  0  0  0       
+11 11 11 11       e4  0 e4  0       11  0 11  0        0 11  0 11       
+deltaK[2]     deltaX[2] 
+2d  0 2d  0        0  0  0  0      
+ 4  0  4  0        0  0  0  0      
+3c  0  0  0        0  0  0  0      
+ 0 11  0 11        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+e6 9e  0  0       e6 9e  0  0       73 db  0  0       73 db  0  0       e6 e4 78 c7       
+73  0  0  0       73  0  0  0       b4  0  0  0        0  0  0 b4       73 92 73  0       
+73 73  0  0       73 73  0  0       88 b4  0  0        0  0 88 b4       73  0  0  0       
+95 95 73  0       95 95 73  0       49 f0 b4  0        0 49 f0 b4       95 e4 73 73       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+e6 78 78 78        0 9c  0 bf        0 78  0 78        0 78  0 78       
+73 73 73 73        0 e1  0 73        0 73  0 73       73  0 73  0       
+73  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+95  0 73 73        0 e4  0  0        0 73  0  0        0  0 73  0       
+deltaK[2]     deltaX[2] 
+ 0 78  0 78        0  0  0  0      
+73  0 73  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 73  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+e6 9e  0  0       e6 9e  0  0       73 4c  0  0       73 4c  0  0       e6 55 78 3c       
+73  0  0  0       73  0  0  0       47  0  0  0        0  0  0 47       73 81 73 fd       
+73 73  0  0       73 73  0  0       88 43  0  0        0  0 88 43       73  0  0  0       
+95 95 73  0       95 95 73  0       cd f0 b6  0        0 cd f0 b6       95 55 73 73       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+e6 78 78 78        0 2d  0 44        0 78  0 78        0 78  0 78       
+73 73 73 73        0 f2  0 8e        0 73  0 73       73  0 73  0       
+73  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+95  0 73 73        0 55  0  0        0 73  0  0        0  0 73  0       
+deltaK[2]     deltaX[2] 
+ 0 78  0 78        0  0  0  0      
+73  0 73  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 73  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ f  0  0  0        f  0  0  0       8a  0  0  0       8a  0  0  0        f 70  f d1       
+8a  0 a7  0       8a  0 a7  0        4  0 24  0        0 24  0  4       8a 54 2d 25       
+8a 8a  0  0       8a 8a  0  0       11 78  0  0        0  0 11 78       8a  0  0  0       
+85 85 2d  0       85 85 2d  0       1c 1e a5  0        0 1c 1e a5       85 1c 2d 2d       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ f  f  f  f        0 7f  0 de        0  f  0  f        0  f  0  f       
+8a 8a 2d 2d        0 de  0  8        0 8a  0 2d       8a  0 2d  0       
+8a  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+85  0 2d 2d        0 1c  0  0        0 2d  0  0        0  0 2d  0       
+deltaK[2]     deltaX[2] 
+ 0  f  0  f        0  0  0  0      
+8a  0 2d  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 2d  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 10  7  0        0 10  7  0        0 da 86  0        0 da 86  0       e8 10  0 17       
+ 0 65  0  0        0 65  0  0        0 58  0  0       58  0  0  0       b0 65 f4 65       
+58 58  0  0       58 58  0  0       bf 39  0  0        0  0 bf 39       58  0  0  0       
+58 58 65  0       58 58 65  0       bf a8 2e  0        0 bf a8 2e       58 10 65 65       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 10 17 17       e8  0 17  0       10  0 17  0       10  0 17  0       
+ 0 65 65 65       b0  0 91  0       65  0 65  0        0 65  0 65       
+58  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+58  0 65 65        0 10  0  0        0 65  0  0        0  0 65  0       
+deltaK[2]     deltaX[2] 
+10  0 17  0        0  0  0  0      
+ 0 65  0 65        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 65  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 10  7  0        0 10  7  0        0 da 65  0        0 da 65  0       e8 10 dd 17       
+ 0 65  0  0        0 65  0  0        0 58  0  0       58  0  0  0       b0 65 ca 65       
+58 58  0  0       58 58  0  0       5c 39  0  0        0  0 5c 39       58  0  0  0       
+58 58 65  0       58 58 65  0       bf 4b 2e  0        0 bf 4b 2e       58 10 65 65       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 10 17 17       e8  0 ca  0       10  0 17  0       10  0 17  0       
+ 0 65 65 65       b0  0 af  0       65  0 65  0        0 65  0 65       
+58  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+58  0 65 65        0 10  0  0        0 65  0  0        0  0 65  0       
+deltaK[2]     deltaX[2] 
+10  0 17  0        0  0  0  0      
+ 0 65  0 65        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0  0 65  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+a4 a4  b  0       a4 a4  b  0       52 f8 89  0       52 f8 89  0       a4  0 c0  b       
+52  0 9b  0       52  0 9b  0       6f  0 ba  0        0 ba  0 6f       52 a9 c9  b       
+52 52  0  0       52 52  0  0       c9 ba  0  0        0  0 c9 ba       52  0  0  0       
+d5  0  0  0       d5  0  0  0       3e  0  0  0        0 3e  0  0       f6 d5 49 d5       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+a4  0  b  b        0  0 cb  0        0  0  b  0        0  0  b  0       
+52 52 c9 c9        0 fb  0 c2        0 52  0 c9       52  0 c9  0       
+52  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+d5 d5 d5 d5       23  0 9c  0       d5  0 d5  0        0 d5  0 d5       
+deltaK[2]     deltaX[2] 
+ 0  0  b  0        0  0  0  0      
+52  0 c9  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0 d5  0 d5        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+49 a0  0  0       49 a0  0  0       a9 5b  0  0       a9 5b  0  0       49 76 e9 37       
+a9  0  0  0       a9  0  0  0       ad  0  0  0        0  0  0 ad       a9 9b a9 37       
+a9 a9  0  0       a9 a9  0  0       20 db  0  0        0  0 20 db       a9  0  0  0       
+7d  b  0  0       7d  b  0  0       c0 c9  0  0        0 c0 c9  0       e0 76 a9 76       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+49 e9 e9 e9        0 9f  0 de        0 e9  0 e9        0 e9  0 e9       
+a9 a9 a9 a9        0 32  0 9e        0 a9  0 a9       a9  0 a9  0       
+a9  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+7d 76 76 76       9d  0 df  0       76  0 76  0        0 76  0 76       
+deltaK[2]     deltaX[2] 
+ 0 e9  0 e9        0  0  0  0      
+a9  0 a9  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0 76  0 76        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+9c  0  0  0       9c  0  0  0       4e  0  0  0       4e  0  0  0       9c 2b 9c 55       
+4e  0 b7  0       4e  0 b7  0       81  0 d4  0        0 d4  0 81       4e ff f9 55       
+4e 4e  0  0       4e 4e  0  0       bf cd  0  0        0  0 bf cd       4e  0  0  0       
+bd f1  0  0       bd f1  0  0       4c 23  0  0        0 4c 23  0       d2 4c f9 4c       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+9c 9c 9c 9c        0 b7  0 c9        0 9c  0 9c        0 9c  0 9c       
+4e 4e f9 f9        0 b1  0 ac        0 4e  0 f9       4e  0 f9  0       
+4e  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+bd 4c 4c 4c       6f  0 b5  0       4c  0 4c  0        0 4c  0 4c       
+deltaK[2]     deltaX[2] 
+ 0 9c  0 9c        0  0  0  0      
+4e  0 f9  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0 4c  0 4c        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+40  0 40  0       40  0 40  0       20  0 45  0       20  0 45  0       40 58 25 32       
+20  0 8f  0       20  0 8f  0       c6  0 3a  0        0 3a  0 c6       20 62 af 32       
+20 20  0  0       20 20  0  0       af 63  0  0        0  0 af 63       20  0  0  0       
+60  0  0  0       60  0  0  0       16  0  0  0        0 16  0  0       60 16 60 a5       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+40 40  0  0        0 18 25 32        0 40 40 40        0 40 40 40       
+20 20 af af        0 42  0 9d        0 20  0 af       20  0 af  0       
+20  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+60 60 60 60        0 76  0 c5        0 60  0 60       60  0 60  0       
+deltaK[2]     deltaX[2] 
+ 0 40 40 40        0  0  0  0      
+20  0 af  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+60  0 60  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 71 30  0        0 71 30  0        0 58  1  0        0 58  1  0       c1 71 8e 41       
+99  0  0  0       99  0  0  0       d8  0  0  0        0  0  0 d8       58 99 8d 99       
+ 0  0 8e  0        0  0 8e  0        0  0 c1  0       c1  0  0  0       99  0 8e 8e       
+c1 b0 71  0       c1 b0 71  0       c1 8c 32  0        0 c1 8c 32       c1 71  0 bc       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 71 41 41       c1  0 cf  0       71  0 41  0       71  0 41  0       
+99 99 99 99       c1  0 14  0       99  0 99  0        0 99  0 99       
+ 0  0 8e 8e       99  0  0  0       8e  0  0  0        0  0 8e  0       
+c1 71  0  0        0  0  0 bc        0  0  0 71       71  0  0  0       
+deltaK[2]     deltaX[2] 
+71  0 41  0        0  0  0  0      
+ 0 99  0 99        0  0  0  0      
+ 0  0 8e  0        0  0  0  0      
+71  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 4 d4 d2  0        4 d4 d2  0       43 15 86  0       43 15 86  0       86 d0 54  2       
+43  0  0  0       43  0  0  0       69  0  0  0        0  0  0 69       43 ef 43  2       
+43 43  0  0       43 43  0  0       43 b9  0  0        0  0 43 b9       43  0  0  0       
+d0  0  0  0       d0  0  0  0       fa  0  0  0        0 fa  0  0       c5 d0 d2 d0       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 4 d0  2  2       82  0 56  0       d0  0  2  0       d0  0  2  0       
+43 43 43 43        0 ac  0 41        0 43  0 43       43  0 43  0       
+43  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+d0 d0 d0 d0       15  0  2  0       d0  0 d0  0        0 d0  0 d0       
+deltaK[2]     deltaX[2] 
+d0  0  2  0        0  0  0  0      
+43  0 43  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+ 0 d0  0 d0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+40  0  0  0       40  0  0  0       20  0  0  0       20  0  0  0       40 ba 40 92       
+20  0 fb  0       20  0 fb  0        9  0 fe  0        0 fe  0  9       20 44 db 92       
+20 20  0  0       20 20  0  0       c0 89  0  0        0  0 c0 89       20  0  0  0       
+60 bb  0  0       60 bb  0  0       a3 80  0  0        0 a3 80  0       60 a3 db 80       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+40 40 40 40        0 fa  0 d2        0 40  0 40        0 40  0 40       
+20 20 db db        0 64  0 49        0 20  0 db       20  0 db  0       
+20  0  0  0        0  0  0  0        0  0  0  0        0  0  0  0       
+60 db db db        0 78  0 5b        0 db  0 db       db  0 db  0       
+deltaK[2]     deltaX[2] 
+ 0 40  0 40        0  0  0  0      
+20  0 db  0        0  0  0  0      
+ 0  0  0  0        0  0  0  0      
+db  0 db  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+51  5 54  0       51  5 54  0       17 11  f  0       17 11  f  0       51 22 1e 6e       
+ 0 11  0  0        0 11  0  0        0 23  0  0       23  0  0  0       7f 11  f 11       
+ 0 11 11  0        0 11 11  0        0 b2 1a  0       1a  0  0 b2        0 11  f  0       
+ 0  0 11  0        0  0 11  0        0  0 dc  0        0  0  0 dc        0 33 11 11       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+51 54  0  0        0 76 1e 6e        0 54 54 54        0 54 54 54       
+ 0 11 11 11       7f  0 1e  0       11  0 11  0        0 11  0 11       
+ 0 11  0  0        0  0  f  0        0  0 11  0       11  0  0  0       
+ 0  0 11 11        0 33  0  0        0 11  0  0        0  0 11  0       
+deltaK[2]     deltaX[2] 
+ 0 54 54 54        0  0  0  0      
+ 0 11  0 11        0  0  0  0      
+11  0  0  0        0  0  0  0      
+ 0  0 11  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+11  0 11  0       11  0 11  0       dc  0  a  0       dc  0  a  0       11 85  a 85       
+ 0 28  0  0        0 28  0  0        0 6e  0  0       6e  0  0  0        0 85 28 85       
+94  0  0  0       94  0  0  0       1e  0  0  0        0  0 1e  0       b2 94 36 94       
+11  0 11  0       11  0 11  0       85  0 85  0        0 85  0 85       11 11  0 11       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+11 11  0  0        0 94  a 85        0 11 11 11        0 11 11 11       
+ 0 28 28 28        0 ad  0 ad        0 28  0 28       28  0 28  0       
+94 94 94 94       26  0 a2  0       94  0 94  0       94  0 94  0       
+11 11  0  0        0  0  0 11        0  0  0 11       11  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 11 11 11        0  0  0  0      
+28  0 28  0        0  0  0  0      
+94  0 94  0        0  0  0  0      
+11  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+f0  0  0  0       f0  0  0  0       25  0  0  0       25  0  0  0       f0 fa f0 fa       
+ 0 ab  0  0        0 ab  0  0        0 9f  0  0       9f  0  0  0        0 fa ab fa       
+15  0  0  0       15  0  0  0       a0  0  0  0        0  0 a0  0       ba 15 ab 15       
+f0 1f ef  0       f0 1f ef  0       fa 50 fa  0        0 fa 50 fa       f0 ef  0 ef       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+f0 f0 f0 f0        0  a  0  a        0 f0  0 f0        0 f0  0 f0       
+ 0 ab ab ab        0 51  0 51        0 ab  0 ab       ab  0 ab  0       
+15 15 15 15       af  0 be  0       15  0 15  0       15  0 15  0       
+f0 ef  0  0        0  0  0 ef        0  0  0 ef       ef  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 f0  0 f0        0  0  0  0      
+ab  0 ab  0        0  0  0  0      
+15  0 15  0        0  0  0  0      
+ef  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+60  0 60  0       60  0 60  0       8c  0 f6  0       8c  0 f6  0       89 60  0  0       
+1f 5f 40  0       1f 5f 40  0       4f 8f 20  0       8f 20  0 4f       89 40 f4 4f       
+ 3  0  0  0        3  0  0  0       f7  0  0  0        0  0 f7  0        3 20  3 27       
+ 0  0 f6  0        0  0 f6  0        0  0 d1  0        0  0  0 d1        0 20 f6 f6       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+60 60  0  0       e9  0  0  0       60  0  0  0       60  0  0  0       
+1f 40  0  0       96  0 f4 4f       40  0 40 40        0 40 40 40       
+ 3  3  3  3        0 23  0 24        0  3  0  3        0  3  0  3       
+ 0  0 f6 f6        0 20  0  0        0 f6  0  0        0  0 f6  0       
+deltaK[2]     deltaX[2] 
+60  0  0  0        0  0  0  0      
+ 0 40 40 40        0  0  0  0      
+ 0  3  0  3        0  0  0  0      
+ 0  0 f6  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+7f 46 39  0       7f 46 39  0       9d 91 fc  0       9d 91 fc  0       fe 39  0  0       
+fe 3c  0  0       fe 3c  0  0       24 bc  0  0       bc  0  0 24       fe 91 c2 24       
+21  0  0  0       21  0  0  0       e3  0  0  0        0  0 e3  0       21 91 21 90       
+ 0  0 fc  0        0  0 fc  0        0  0 6c  0        0  0  0 6c        0 a8 fc fc       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+7f 39  0  0       81  0  0  0       39  0  0  0       39  0  0  0       
+fe c2 c2 c2        0 53  0 e6        0 c2  0 c2       c2  0 c2  0       
+21 21 21 21        0 b0  0 b1        0 21  0 21        0 21  0 21       
+ 0  0 fc fc        0 a8  0  0        0 fc  0  0        0  0 fc  0       
+deltaK[2]     deltaX[2] 
+39  0  0  0        0  0  0  0      
+c2  0 c2  0        0  0  0  0      
+ 0 21  0 21        0  0  0  0      
+ 0  0 fc  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+ 0 f7  0  0        0 f7  0  0        0 f5  0  0        0 f5  0  0       9b f7 f4 f7       
+ 0 f3  0  0        0 f3  0  0        0  f  0  0        f  0  0  0       9b f3 f4 f3       
+ 0 ff ff  0        0 ff ff  0        0  2 8a  0       8a  0  0  2        0 ff  7  0       
+85 85 f3  0       85 85 f3  0        6 f4 f5  0        0  6 f4 f5       85  8 f3 f3       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+ 0 f7 f7 f7       9b  0  3  0       f7  0 f7  0       f7  0 f7  0       
+ 0 f3 f3 f3       9b  0  7  0       f3  0 f3  0        0 f3  0 f3       
+ 0 ff  0  0        0  0  7  0        0  0 ff  0       ff  0  0  0       
+85  0 f3 f3        0  8  0  0        0 f3  0  0        0  0 f3  0       
+deltaK[2]     deltaX[2] 
+f7  0 f7  0        0  0  0  0      
+ 0 f3  0 f3        0  0  0  0      
+ff  0  0  0        0  0  0  0      
+ 0  0 f3  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+40  0  0  0       40  0  0  0       45  0  0  0       45  0  0  0       40  a 40 ff       
+ 0  0 32  0        0  0 32  0        0  0  a  0        0  a  0  0        0  0 32 cb       
+ca fc 36  0       ca fc 36  0       39 1a ca  0       ca  0 39 1a       ca 36 f9  0       
+ 5  5 cb  0        5  5 cb  0       14 79 e5  0        0 14 79 e5        5 22 cb cb       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+40 40 40 40        0 4a  0 bf        0 40  0 40        0 40  0 40       
+ 0  0 32 32        0  0  0 f9        0  0  0 32        0  0 32  0       
+ca 36  0  0        0  0 f9  0        0  0 36  0       36  0  0  0       
+ 5  0 cb cb        0 22  0  0        0 cb  0  0        0  0 cb  0       
+deltaK[2]     deltaX[2] 
+ 0 40  0 40        0  0  0  0      
+ 0  0 32  0        0  0  0  0      
+36  0  0  0        0  0  0  0      
+ 0  0 cb  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+c9 cd  4  0       c9 cd  4  0        8 d2 57  0        8 d2 57  0       38  4  0  0       
+38 38 be  0       38 38 be  0       74 18 69  0       18 69  0 74       38  0 be 74       
+10  0  0  0       10  0  0  0       ae  0  0  0        0  0 ae  0       10 bb 10 cb       
+ 0  0 57  0        0  0 57  0        0  0 9c  0        0  0  0 9c        0  4 57 57       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+c9  4  0  0       f1  0  0  0        4  0  0  0        4  0  0  0       
+38  0 be be        0  0  0 ca        0  0  0 be        0  0 be  0       
+10 10 10 10        0 ab  0 db        0 10  0 10        0 10  0 10       
+ 0  0 57 57        0  4  0  0        0 57  0  0        0  0 57  0       
+deltaK[2]     deltaX[2] 
+ 4  0  0  0        0  0  0  0      
+ 0  0 be  0        0  0  0  0      
+ 0 10  0 10        0  0  0  0      
+ 0  0 57  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+b9 3f  0  0       b9 3f  0  0       b9 f5  0  0       b9 f5  0  0       b9 f3 86 ac       
+d2  0 4e  0       d2  0 4e  0       7d  0 f7  0        0 f7  0 7d       d2  0 9c d1       
+ 2  0  2  0        2  0  2  0        d  0 d0  0       d0  0  d  0        2  2 9c  0       
+ 0 f3 f3  0        0 f3 f3  0        0 8b 2b  0        0  0 8b 2b        0 f3  0 2b       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+b9 86 86 86        0 75  0 2a        0 86  0 86        0 86  0 86       
+d2 d2 9c 9c        0 d2  0 4d        0 d2  0 9c       d2  0 9c  0       
+ 2  2  0  0        0  0 9c  0        0  0  2  0        2  0  0  0       
+ 0 f3  0  0        0  0  0 2b        0  0  0 f3       f3  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 86  0 86        0  0  0  0      
+d2  0 9c  0        0  0  0  0      
+ 2  0  0  0        0  0  0  0      
+f3  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+dc 45  0  0       dc 45  0  0       dc 66  0  0       dc 66  0  0       dc  0 99  8       
+5d  0  3  0       5d  0  3  0        6  0 44  0        0 44  0  6       5d ee 5e  e       
+22  0 22  0       22  0 22  0       ee  0 7f  0       7f  0 ee  0       22 22 5e  0       
+ 0 ee ee  0        0 ee ee  0        0 77  2  0        0  0 77  2        0 ee  0  2       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+dc 99 99 99        0 99  0 91        0 99  0 99        0 99  0 99       
+5d 5d 5e 5e        0 b3  0 50        0 5d  0 5e       5d  0 5e  0       
+22 22  0  0        0  0 5e  0        0  0 22  0       22  0  0  0       
+ 0 ee  0  0        0  0  0  2        0  0  0 ee       ee  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 99  0 99        0  0  0  0      
+5d  0 5e  0        0  0  0  0      
+22  0  0  0        0  0  0  0      
+ee  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+74 c6  0  0       74 c6  0  0       74 8c  0  0       74 8c  0  0       74 75 b2 61       
+cb  0 da  0       cb  0 da  0       6e  0 db  0        0 db  0 6e       cb 21 11  f       
+57  0 57  0       57  0 57  0       dc  0 9c  0       9c  0 dc  0       57 57 11  0       
+ 0 54 54  0        0 54 54  0        0 6e d3  0        0  0 6e d3        0 54  0 d3       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+74 b2 b2 b2        0 c7  0 d3        0 b2  0 b2        0 b2  0 b2       
+cb cb 11 11        0 ea  0 1e        0 cb  0 11       cb  0 11  0       
+57 57  0  0        0  0 11  0        0  0 57  0       57  0  0  0       
+ 0 54  0  0        0  0  0 d3        0  0  0 54       54  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 b2  0 b2        0  0  0  0      
+cb  0 11  0        0  0  0  0      
+57  0  0  0        0  0  0  0      
+54  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+25 63  0  0       25 63  0  0       b7 86  0  0       b7 86  0  0       25 91 46 1c       
+47  0  0  0       47  0  0  0        9  0  0  0        0  0  0  9       47  0 47 15       
+17  0 17  0       17  0 17  0       8d  0 50  0       50  0 8d  0       17 17 47  0       
+92 14 86  0       92 14 86  0       86 cb  7  0        0 86 cb  7       92 86  0  7       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+25 46 46 46        0 d7  0 5a        0 46  0 46        0 46  0 46       
+47 47 47 47        0 47  0 52        0 47  0 47       47  0 47  0       
+17 17  0  0        0  0 47  0        0  0 17  0       17  0  0  0       
+92 86  0  0        0  0  0  7        0  0  0 86       86  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 46  0 46        0  0  0  0      
+47  0 47  0        0  0  0  0      
+17  0  0  0        0  0  0  0      
+86  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+c7 11  0  0       c7 11  0  0       77 dd  0  0       77 dd  0  0       c7  0 d6 bd       
+ c  0  0  0        c  0  0  0       37  0  0  0        0  0  0 37        c 7c  c 8a       
+25  0 25  0       25  0 25  0       6d  0 29  0       29  0 6d  0       25 25  c  0       
+b0 95 25  0       b0 95 25  0       a1 bb e4  0        0 a1 bb e4       b0 25  0 e4       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+c7 d6 d6 d6        0 d6  0 6b        0 d6  0 d6        0 d6  0 d6       
+ c  c  c  c        0 70  0 86        0  c  0  c        c  0  c  0       
+25 25  0  0        0  0  c  0        0  0 25  0       25  0  0  0       
+b0 25  0  0        0  0  0 e4        0  0  0 25       25  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 d6  0 d6        0  0  0  0      
+ c  0  c  0        0  0  0  0      
+25  0  0  0        0  0  0  0      
+25  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+66 63  0  0       66 63  0  0       82 96  0  0       82 96  0  0       66 9c  5 a6       
+ 9  0  0  0        9  0  0  0       f7  0  0  0        0  0  0 f7        9 3d  9 51       
+70  0 70  0       70  0 70  0        6  0 79  0       79  0  6  0       70 70  9  0       
+e4  8 ec  0       e4  8 ec  0       ab  3 a4  0        0 ab  3 a4       e4 ec  0 a4       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+66  5  5  5        0 99  0 a3        0  5  0  5        0  5  0  5       
+ 9  9  9  9        0 34  0 58        0  9  0  9        9  0  9  0       
+70 70  0  0        0  0  9  0        0  0 70  0       70  0  0  0       
+e4 ec  0  0        0  0  0 a4        0  0  0 ec       ec  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0  5  0  5        0  0  0  0      
+ 9  0  9  0        0  0  0  0      
+70  0  0  0        0  0  0  0      
+ec  0  0  0        0  0  0  0      
+Proba :2^-111
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+4e  0  0  0       4e  0  0  0       73  0  0  0       73  0  0  0       4e  8 4e 69       
+90  0 36  0       90  0 36  0       68  0  8  0        0  8  0 68       90  0 a6  1       
+38  0 38  0       38  0 38  0       74  0 a8  0       a8  0 74  0       38 38 a6  0       
+3d 15 28  0       3d 15 28  0       10 3a d1  0        0 10 3a d1       3d 28  0 d1       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+4e 4e 4e 4e        0 46  0 27        0 4e  0 4e        0 4e  0 4e       
+90 90 a6 a6        0 90  0 a7        0 90  0 a6       90  0 a6  0       
+38 38  0  0        0  0 a6  0        0  0 38  0       38  0  0  0       
+3d 28  0  0        0  0  0 d1        0  0  0 28       28  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 4e  0 4e        0  0  0  0      
+90  0 a6  0        0  0  0  0      
+38  0  0  0        0  0  0  0      
+28  0  0  0        0  0  0  0      
+Proba :2^-112
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+50  0  0  0       50  0  0  0       73  0  0  0       73  0  0  0       50  0 50 8c       
+b2  0 22  0       b2  0 22  0       65  0  1  0        0  1  0 65       b2  1 90 e9       
+ 4  0  4  0        4  0  4  0       60  0 b6  0       b6  0 60  0        4  4 90  0       
+23 24  7  0       23 24  7  0        3 30 23  0        0  3 30 23       23  7  0 23       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+50 50 50 50        0 50  0 dc        0 50  0 50        0 50  0 50       
+b2 b2 90 90        0 b3  0 79        0 b2  0 90       b2  0 90  0       
+ 4  4  0  0        0  0 90  0        0  0  4  0        4  0  0  0       
+23  7  0  0        0  0  0 23        0  0  0  7        7  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 50  0 50        0  0  0  0      
+b2  0 90  0        0  0  0  0      
+ 4  0  0  0        0  0  0  0      
+ 7  0  0  0        0  0  0  0      
+Proba :2^-110
+Round 0:
+Round 0:
+deltaK[0]      deltaX[0]     DeltaSB[0]           deltaSR[0]             deltaY[1]  
+b2  0  0  0       b2  0  0  0        c  0  0  0        c  0  0  0       b2 57 b2 61       
+e9  0 f8  0       e9  0 f8  0       6e  0 a3  0        0 a3  0 6e       e9 f4 11  f       
+43  0 43  0       43  0 43  0       dc  0 aa  0       aa  0 dc  0       43 43 11  0       
+be 54 ea  0       be 54 ea  0       a9 6e d3  0        0 a9 6e d3       be ea  0 d3       
+Round 1:
+deltaK[1]      deltaX[1]     DeltaSB[1]           deltaSR[1]    
+b2 b2 b2 b2        0 e5  0 d3        0 b2  0 b2        0 b2  0 b2       
+e9 e9 11 11        0 1d  0 1e        0 e9  0 11       e9  0 11  0       
+43 43  0  0        0  0 11  0        0  0 43  0       43  0  0  0       
+be ea  0  0        0  0  0 d3        0  0  0 ea       ea  0  0  0       
+deltaK[2]     deltaX[2] 
+ 0 b2  0 b2        0  0  0  0      
+e9  0 11  0        0  0  0  0      
+43  0  0  0        0  0  0  0      
+ea  0  0  0        0  0  0  0          
