@@ -4,6 +4,8 @@ This repository contains the search/verify codes and full version for the paper 
 
 The verification codes are located in the src_verify/ folder.
 
+128-2_trail: 2-round related-key differentials trails we searched for AES-128.
+
 The RKDCs search tools codes are located in the search_tools/ folder, these tools need to be extracted into a single file and can be used immediately.
 
 We also provide code without the solver included, with some additional modifications.
